@@ -24,8 +24,13 @@ class ConcastImageEditor:
         )
         self.podcast_icon_path: str = os.path.join(self.parent_folder, "concast.png")
 
+        json_file_name = (
+            f"episode{self.episode_number}.json"
+            if self.episode_number
+            else f"{self.episode_name}.json"
+        )
         self.json_file: str = os.path.join(
-            self.parent_folder, "postproduction/json", f"episode{episode_number}.json"
+            self.parent_folder, "postproduction/json", json_file_name
         )
 
         # Set output file path
@@ -199,28 +204,35 @@ class ConcastImageEditor:
         self.make_post_image("Gota")
 
 
+def determine_episode_name(input_str: Union[str, int]) -> str:
+    if input_str.isdecimal():
+        return f"episode{input_str}", input_str
+
+    tokens = input_str.split("-")
+
+    if len(tokens) == 2:
+        try:
+            episode_number, aftertalk_number = map(int, tokens)
+            return (
+                f"episode{episode_number}-{aftertalk_number}",
+                f"{episode_number}-{aftertalk_number}",
+            )
+        except ValueError:
+            # football-2
+            return input_str, None
+
+    elif len(tokens) == 3:
+        # e.g., football-16-1
+        return input_str, None
+
+    raise BaseException(f"invalid input: {input_str}")
+
+
 def main():
     in_ = sys.argv[1]
-
-    if in_.isdecimal():
-        editor = ConcastImageEditor(os.path.abspath(".."), f"episode{in_}", in_)
-        episode_name = f"episode{in_}"
-        editor.make_concast_post_image(episode_name)
-    else:
-        if len(in_.split("-")) == 2:
-            try:
-                episode_number, aftertalk_number = map(int, in_.split("-"))
-                episode_name = f"episode{episode_number}-{aftertalk_number}"
-            except Exception as e:
-                print(f"An error occurred: {e}")
-                episode_name = in_
-        elif len(in_.split("-")) == 3:
-            # e.g. football-16-1
-            episode_name = in_
-        else:
-            raise BaseException(f"invalid input: {in_}")
-        editor = ConcastImageEditor(os.path.abspath(".."), episode_name)
-        editor.make_concast_post_image(episode_name)
+    episode_name, episode_number = determine_episode_name(in_)
+    editor = ConcastImageEditor(os.path.abspath(".."), episode_name, episode_number)
+    editor.make_concast_post_image(episode_name)
 
 
 if __name__ == "__main__":
