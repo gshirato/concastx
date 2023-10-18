@@ -4,17 +4,20 @@ import json
 
 import cv2
 import numpy as np
-from typing import List, Optional
+from typing import List, Tuple, Optional
 from operate_filename import determine_episode_name_and_number
+from ROISquareSelector import ROISquareSelector
 
 
 class ConcastImageEditor:
     def __init__(
         self,
+        host_name: str,
         parent_folder: str,
         episode_name: str,
         episode_number: Optional[str] = None,
     ):
+        self.host_name: str = host_name
         self.parent_folder: str = parent_folder
         self.episode_name: str = episode_name
         self.episode_number: Optional[str] = episode_number
@@ -111,36 +114,53 @@ class ConcastImageEditor:
             starr_images.append(icon)
         return starr_images
 
+    def get_user_selected_roi(self, image: np.ndarray) -> Tuple[int, int, int, int]:
+        """
+        Let the user select a region of interest (ROI) on the image.
+        """
+        selector = ROISquareSelector()
+        return selector.select_roi(image)
+
+    def overlay_white_rectangle(
+        self, image: np.ndarray, x: int, y: int, size: int, alpha: float
+    ) -> np.ndarray:
+        """
+        Overlay a semi-transparent white rectangle on a region of the image.
+        """
+        overlay = image.copy()
+        cv2.rectangle(
+            overlay, (x, y), (x + size, y + size), (255, 255, 255), cv2.FILLED
+        )
+        return cv2.addWeighted(overlay, alpha, image, 1 - alpha, 0)
+
     def crop_episode_image_to_square(
         self, episode_image: np.ndarray, podcast_icon_path: str, alpha: float = 0.3
     ) -> np.ndarray:
-        _episode_image: np.ndarray = episode_image.copy()
+        # Constants
+        ICON_OFFSET_Y = 20
+        ICON_OFFSET_X = 30
 
-        color_filter_overlay: np.ndarray = episode_image.copy()
-
-        x, y, w, h = cv2.selectROI("resize", _episode_image)
+        # Get user-selected ROI and determine the square size
+        x, y, w, h = self.get_user_selected_roi(episode_image)
         size: int = min(w, h)
 
-        cv2.rectangle(
-            color_filter_overlay,
-            (x, y),
-            (x + size, y + size),
-            (255, 255, 255, 0.3),
-            cv2.FILLED,
-        )
+        # Apply white rectangle overlay to the selected square region
+        episode_image = self.overlay_white_rectangle(episode_image, x, y, size, alpha)
 
-        _episode_image = cv2.addWeighted(
-            color_filter_overlay, alpha, _episode_image, 1 - alpha, 0
-        )
-        _episode_image = _episode_image[y : y + size, x : x + size]
+        # Crop the image to the selected square region
+        cropped_image = episode_image[y : y + size, x : x + size]
 
+        # resize
+        resized_image = cv2.resize(cropped_image, (1080, 1080))
+
+        # Add the podcast icon to the cropped image
         concast_icon: np.ndarray = self.get_icon(podcast_icon_path)
-
-        _episode_image[
-            -(20 + concast_icon.shape[0]) : -20, 30 : 30 + concast_icon.shape[1]
+        resized_image[
+            -(ICON_OFFSET_Y + concast_icon.shape[0]) : -ICON_OFFSET_Y,
+            ICON_OFFSET_X : ICON_OFFSET_X + concast_icon.shape[1],
         ] = concast_icon
 
-        return _episode_image
+        return resized_image
 
     def _add_single_starr_icon(
         self,
@@ -230,14 +250,16 @@ class ConcastImageEditor:
         """
         self.check_paths()
 
-        self.make_post_image("Gota")
+        self.make_post_image(self.host_name)
 
 
 def main():
     in_ = sys.argv[1]
     episode_name, episode_number = determine_episode_name_and_number(in_)
-    editor = ConcastImageEditor(os.path.abspath(".."), episode_name, episode_number)
-    editor.make_concast_post_image(episode_name)
+    editor = ConcastImageEditor(
+        "Gota", os.path.abspath(".."), episode_name, episode_number
+    )
+    editor.make_concast_post_image()
 
 
 if __name__ == "__main__":
