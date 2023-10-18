@@ -1,7 +1,7 @@
 import sys
 import pyperclip
 
-from operate_filename import determine_episode_name_and_number
+from operate_filename import determine_episode_type_and_number
 
 from HTMLBuilder import HTMLBuilder
 from IOManager import IOManager
@@ -9,27 +9,27 @@ from EpisodeManager import EpisodeManager
 from EpisodeSearcher import EpisodeSearcher
 
 
-def create_post(episode_name, episode_number):
-    data = IOManager.read_json(f"json/{episode_name}.json")
+def create_post(episode_type, episode_number):
+    data = IOManager.read_json(f"json/{episode_type}/{episode_number}.json")
 
-    EpisodeManager.validate_episode(data, episode_name, episode_number)
+    EpisodeManager.validate_episode(data, episode_type, episode_number)
     title = EpisodeManager.format_title(data)
-
+    references_html = HTMLBuilder.create_references_html(data["References"])
     if "Topics" in data:
         topics_html = HTMLBuilder.create_header_html(
             EpisodeManager.format_comments(data["Topics"])
         )
-        pyperclip.copy(f"# {title}\n{topics_html}")
+        pyperclip.copy(f"# {title}{topics_html}{references_html}")
 
         sns_post = EpisodeManager.create_sns_post(data)
 
-        IOManager.save_to_txt(sns_post, f"sns/{episode_name}.txt")
+        IOManager.save_to_txt(sns_post, f"sns/{episode_type}/{episode_number}.txt")
 
 
-def get_related_episodes(episode_name, episode_number):
-    data = IOManager.read_json(f"json/{episode_name}.json")
+def get_related_episodes(episode_type, episode_number):
+    data = IOManager.read_json(f"json/{episode_type}/{episode_number}.json")
     attrs = {
-        "episode-type": [episode_name.split("-")[0]],
+        "episode-type": episode_type,
         "starrs": list(data["Starr"].keys()),
     }
     related_episodes = EpisodeSearcher.search_episodes(attrs)
@@ -42,7 +42,7 @@ def get_related_episodes(episode_name, episode_number):
 
 if __name__ == "__main__":
     in_ = sys.argv[1]
-    episode_name, episode_number = determine_episode_name_and_number(in_)
+    episode_type, episode_number = determine_episode_type_and_number(in_)
 
-    create_post(episode_name, episode_number)
-    get_related_episodes(episode_name, episode_number)
+    create_post(episode_type, episode_number)
+    get_related_episodes(episode_type, episode_number)

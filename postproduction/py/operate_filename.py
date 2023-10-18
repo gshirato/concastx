@@ -1,7 +1,10 @@
 from typing import Union
+import re
+import glob
+import os
 
 
-def determine_episode_name_and_number(input_str: Union[str, int]) -> str:
+def determine_episode_type_and_number(input_str: Union[str, int]) -> str:
     """
     Parses an input string and returns a tuple with two strings:
     - The first string is a normalized version of the input that can be used as a key in a dictionary.
@@ -21,23 +24,78 @@ def determine_episode_name_and_number(input_str: Union[str, int]) -> str:
     """
 
     if input_str.isdecimal():
-        return f"episode{input_str}", input_str
+        return "concast", input_str
 
     tokens = input_str.split("-")
 
     if len(tokens) == 2:
-        try:
+        if tokens[0].isdecimal() and tokens[1].isdecimal():
             episode_number, aftertalk_number = map(int, tokens)
-            return (
-                f"episode{episode_number}-{aftertalk_number}",
-                f"{episode_number}-{aftertalk_number}",
-            )
-        except ValueError:
-            # football-2
+            return ("concast", "-".join(tokens))
+        elif tokens[1].isdecimal():
+            return tokens[0], tokens[1]
+        else:
+            # test-episode
             return input_str, None
 
     elif len(tokens) == 3:
         # e.g., football-16-1
-        return input_str, None
+        return tokens[0], "-".join(tokens[1:])
 
     raise BaseException(f"invalid input: {input_str}")
+
+
+def omit_episode_type_from_filename(filename: str, type) -> str:
+    """
+    rename a file with a new name
+    """
+    if type == "concast":
+        return re.sub(r"episode", "", filename)
+
+    return re.sub(f"{type}-", "", filename)
+
+
+def normalize_extension(ext: str) -> str:
+    """
+    normalize an extension
+    """
+    dict = {
+        "jpeg": "jpg",
+    }
+    return dict.get(ext.lower(), ext.lower())
+
+
+def rename_files(folder_name: str, ext: str, episode_type: str):
+    """
+    rename files in a directory
+    """
+
+    files = glob.glob(f"{folder_name}/{episode_type}/*.{ext}")
+
+    for file in files:
+        filename = file.split("/")[-1]
+        new_filename = omit_episode_type_from_filename(filename, episode_type)
+        new_ext = normalize_extension(ext)
+
+        new_filename = new_filename.replace(ext, new_ext)
+
+        if filename == new_filename:
+            continue
+        print(f"{filename} -> {new_filename}")
+        os.rename(file, f"{folder_name}/{episode_type}/{new_filename}")
+
+
+def main():
+    """
+    main function
+    """
+
+    rename_files("sns", "txt", "concast")
+    rename_files("sns", "txt", "football")
+    rename_files("sns", "txt", "hwn")
+    rename_files("sns", "txt", "weshow")
+    rename_files("sns", "txt", "solo")
+
+
+if __name__ == "__main__":
+    main()

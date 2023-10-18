@@ -31,9 +31,9 @@ class EpisodeSearcher:
         results = []
         to_show = []
         count = 0
-        files = glob.glob("json/*.json")
+        files = glob.glob(f"json/{attrs['episode-type']}/*.json")
         predefined_value_to_remove = "Gota"
-
+        print()
         for file_path in files:
             episode_data = IOManager.read_json(file_path)
             # remove 'Gota' from episode_data['Starr']

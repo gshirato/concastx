@@ -5,7 +5,7 @@ import json
 import cv2
 import numpy as np
 from typing import List, Tuple, Optional
-from operate_filename import determine_episode_name_and_number
+from operate_filename import determine_episode_type_and_number
 from ROISquareSelector import ROISquareSelector
 
 
@@ -14,37 +14,29 @@ class ConcastImageEditor:
         self,
         host_name: str,
         parent_folder: str,
-        episode_name: str,
+        episode_type: str,
         episode_number: Optional[str] = None,
     ):
         self.host_name: str = host_name
         self.parent_folder: str = parent_folder
-        self.episode_name: str = episode_name
+        self.episode_type: str = episode_type
         self.episode_number: Optional[str] = episode_number
         self.podcast_icon_path: str = os.path.join(self.parent_folder, "concast.png")
 
         self.episode_image_path: str = os.path.join(
-            self.parent_folder, f"photos/eyecatch/{episode_name}.jpg"
+            self.parent_folder, f"photos/eyecatch/{episode_type}/{episode_number}.jpg"
         )
         self.podcast_icon_path: str = os.path.join(self.parent_folder, "concast.png")
 
-        json_file_name = (
-            f"episode{self.episode_number}.json"
-            if self.episode_number
-            else f"{self.episode_name}.json"
-        )
+        json_file_name = f"{self.episode_number}.json"
         self.json_file: str = os.path.join(
-            self.parent_folder, "postproduction/json", json_file_name
+            self.parent_folder, "postproduction/json", episode_type, json_file_name
         )
 
         # Set output file path
-        output_filename = (
-            f"icon-{self.episode_number}.jpg"
-            if self.episode_number
-            else f"icon-{self.episode_name}.jpg"
-        )
+        output_filename = f"{self.episode_number}.jpg"
         self.output_file: str = os.path.join(
-            self.parent_folder, f"photos/editted-icon/{output_filename}"
+            self.parent_folder, f"photos/edited-icon/{episode_type}/{output_filename}"
         )
 
     @staticmethod
@@ -254,9 +246,9 @@ class ConcastImageEditor:
 
 
 def main():
-    episode_name, episode_number = determine_episode_name_and_number(sys.argv[1])
+    episode_type, episode_number = determine_episode_type_and_number(sys.argv[1])
     editor = ConcastImageEditor(
-        "Gota", os.path.abspath(".."), episode_name, episode_number
+        "Gota", os.path.abspath(".."), episode_type, episode_number
     )
     editor.make_concast_post_image()
 

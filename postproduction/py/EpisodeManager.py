@@ -1,6 +1,6 @@
 class EpisodeManager:
     @staticmethod
-    def validate_episode(data, episode_name, episode_number):
+    def validate_episode(data, episode_type, episode_number):
         number = data["Number"]
         if episode_number:
             if episode_number != number:
@@ -8,8 +8,8 @@ class EpisodeManager:
                     f"Episode number mismatch: {episode_number} != {number}"
                 )
         else:
-            if episode_name != number:
-                raise ValueError(f"Episode name mismatch: {episode_name} != {number}")
+            if episode_type != number:
+                raise ValueError(f"Episode name mismatch: {episode_type} != {number}")
 
     @staticmethod
     def format_title(data):

@@ -7,13 +7,14 @@ import pandas as pd
 
 from typing import List, Tuple
 
-from operate_filename import determine_episode_name_and_number
+from operate_filename import determine_episode_type_and_number
 
 
 class AudioTagger:
-    def __init__(self, episode_name: str):
-        self.episode_name = episode_name
-        self.audio = ID3(f"../episodes/{episode_name}.mp3")
+    def __init__(self, episode_type: str, episode_number: str):
+        self.episode_type = episode_type
+        self.episode_number = episode_number
+        self.audio = ID3(f"../episodes/{episode_type}/{episode_number}.mp3")
 
     @staticmethod
     def parse_timestr_milliseconds(timestr: str) -> int:
@@ -27,7 +28,9 @@ class AudioTagger:
             raise ValueError(f"Invalid time format: {timestr}")
 
     def get_time_data_from_csv(self) -> Tuple[List[str], List[str], List[str]]:
-        df = pd.read_csv(f"markers/{self.episode_name}.csv", sep="\t")
+        df = pd.read_csv(
+            f"markers/{self.episode_type}/{self.episode_number}.csv", sep="\t"
+        )
         return df["Start"].tolist(), df["Name"].tolist(), df["Duration"].tolist()
 
     def add_tags(self):
@@ -68,7 +71,7 @@ class AudioTagger:
 
 
 if __name__ == "__main__":
-    episode_name, _ = determine_episode_name_and_number(sys.argv[1])
+    episode_type, episode_number = determine_episode_type_and_number(sys.argv[1])
 
-    tagger = AudioTagger(episode_name)
+    tagger = AudioTagger(episode_type, episode_number)
     tagger.add_tags()
