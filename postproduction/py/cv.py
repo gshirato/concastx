@@ -4,7 +4,8 @@ import json
 
 import cv2
 import numpy as np
-from typing import List, Tuple, Union, Optional
+from typing import List, Optional
+from operate_filename import determine_episode_name_and_number
 
 
 class ConcastImageEditor:
@@ -141,34 +142,62 @@ class ConcastImageEditor:
 
         return _episode_image
 
+    def _add_single_starr_icon(
+        self,
+        image: np.ndarray,
+        starr: np.ndarray,
+        index: int,
+        start_x: int,
+        start_y: int,
+        step: int,
+    ) -> np.ndarray:
+        """
+        Add a single starr icon to the image.
+        """
+        # Check if the starr image is square
+        if starr.shape[0] != starr.shape[1]:
+            raise ValueError(
+                f"starr icon has to be square ({starr.shape[0]}!={starr.shape[1]})"
+            )
+
+        # Determine the region of interest (ROI) in the main image where the starr image will be placed
+        y_end = -(start_y)
+        y_start = y_end - starr.shape[0]
+        x_end = -(start_x + step * index)
+        x_start = x_end - starr.shape[1]
+
+        roi = image[y_start:y_end, x_start:x_end]
+
+        # Prepare the starr image and combine it with the corresponding ROI
+        cropped_mask = self.crop_circle(starr.copy(), reverse=True)
+        masked_roi = cv2.bitwise_and(roi, cropped_mask)
+        combined_roi = cv2.bitwise_or(masked_roi, starr)
+
+        # Place the processed starr image back into the main image
+        image[y_start:y_end, x_start:x_end] = combined_roi
+
+        return image
+
     def add_starr_icons_to_episode_image(
         self, episode_image: np.ndarray, starr_images: List[np.ndarray]
     ) -> np.ndarray:
-        """出演者のアイコンをエピソード画像に追加する"""
-        _episode_image: np.ndarray = episode_image.copy()
+        """
+        出演者のアイコンをエピソード画像に追加する
+        """
 
-        i: int = 0
-        for im_starr in starr_images[::-1]:
-            assert (
-                im_starr.shape[0] == im_starr.shape[1]
-            ), f"starr icon has to be square ({im_starr.shape[0]}!={im_starr.shape[1]})"
-            start_x: int = 40
-            start_y: int = 20
-            step: int = 168
-            roi: np.ndarray = _episode_image[
-                -(start_y + im_starr.shape[0]) : -(start_y),
-                -(start_x + step * i + im_starr.shape[1]) : -(start_x + step * i),
-            ]
-            cropped_mask: np.ndarray = self.crop_circle(im_starr.copy(), reverse=True)
-            masked_roi: np.ndarray = cv2.bitwise_and(roi, cropped_mask)
-            final_roi: np.ndarray = cv2.bitwise_or(masked_roi, im_starr)
-            _episode_image[
-                -(start_y + im_starr.shape[0]) : -(start_y),
-                -(start_x + step * i + im_starr.shape[1]) : -(start_x + step * i),
-            ] = final_roi
+        # Constants
+        START_X: int = 40
+        START_Y: int = 20
+        STEP: int = 168
 
-            i += 1
-        return _episode_image
+        result_image: np.ndarray = episode_image.copy()
+
+        for i, im_starr in enumerate(starr_images[::-1]):
+            result_image = self._add_single_starr_icon(
+                result_image, im_starr, i, START_X, START_Y, STEP
+            )
+
+        return result_image
 
     def make_post_image(self, host: str) -> None:
         episode_image: np.ndarray = cv2.imread(self.episode_image_path)
@@ -195,55 +224,13 @@ class ConcastImageEditor:
 
         cv2.destroyAllWindows()
 
-    def make_concast_post_image(self, episode_name: str) -> None:
+    def make_concast_post_image(self) -> None:
         """
         run by main
         """
         self.check_paths()
 
         self.make_post_image("Gota")
-
-
-def determine_episode_name_and_number(input_str: Union[str, int]) -> str:
-    """
-    Parses an input string and returns a tuple with two strings:
-    - The first string is a normalized version of the input that can be used as a key in a dictionary.
-    - The second string is an optional identifier that can be used to distinguish between different versions of the same input.
-
-    The input string can have one of the following formats:
-    - A decimal number, in which case the first string is "episode" followed by the number, and the second string is the number itself.
-    - Two numbers separated by a hyphen, in which case the first string is "episode" followed by the first number and the second string is the two numbers separated by a hyphen.
-    - Three tokens separated by hyphens, in which case the input is returned as is.
-    - Any other input is considered invalid and raises a BaseException.
-
-    Args:
-        input_str: A string representing the input to be parsed.
-
-    Returns:
-        A tuple with two strings: the normalized input and an optional identifier.
-    """
-
-    if input_str.isdecimal():
-        return f"episode{input_str}", input_str
-
-    tokens = input_str.split("-")
-
-    if len(tokens) == 2:
-        try:
-            episode_number, aftertalk_number = map(int, tokens)
-            return (
-                f"episode{episode_number}-{aftertalk_number}",
-                f"{episode_number}-{aftertalk_number}",
-            )
-        except ValueError:
-            # football-2
-            return input_str, None
-
-    elif len(tokens) == 3:
-        # e.g., football-16-1
-        return input_str, None
-
-    raise BaseException(f"invalid input: {input_str}")
 
 
 def main():
