@@ -1,8 +1,4 @@
-import re
 import sys
-import json
-
-import glob
 import pyperclip
 
 from operate_filename import determine_episode_name_and_number
@@ -11,8 +7,6 @@ from HTMLBuilder import HTMLBuilder
 from IOManager import IOManager
 from EpisodeManager import EpisodeManager
 from EpisodeSearcher import EpisodeSearcher
-
-from typing import Optional, List, Dict
 
 
 def create_post(episode_name, episode_number):
