@@ -1,0 +1,25 @@
+{
+	"Number": "151",
+	"Genre": "con",
+	"GenreNumber": "n",
+	"Title": "暇だけど暇じゃない博士課程",
+	"Starr":{
+		"Gota": "Gota Shirato",
+		"Katashin": "Katashin"
+	},
+	"Topics":[
+		"子育てと研究",
+		"博士課程の初心",
+		"言葉へのこだわり",
+		"受け売りの人生",
+		"現場に立つ",
+		"コンテンツ",
+		"「W杯一緒に行く？」",
+		"楽観的"
+	],
+    "References":{
+		"Concastについて": "https://linktr.ee/concastx",
+		"esa - 自律的なチームのための情報共有サービス": "https://esa.io/"
+	},
+	"Memo":""
+}

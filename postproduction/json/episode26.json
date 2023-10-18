@@ -1,0 +1,52 @@
+{
+	"Number": "26",
+	"Genre": "con",
+	"GenreNumber": "n",
+	"Title": "ロマンチックな航海士",
+	"RecDate":"2020-05-14",
+	"PubDate":"2020-05-15",
+	"Starr":{
+	},
+	"Topics":[
+		
+	],
+	"Effects":[
+		{
+			
+		}
+	],
+	"Chapter":[
+	
+	],
+    "References":{
+		"Personality Estimator(Shokiのアプリ)": "https://personalityestimator.herokuapp.com/",
+		"Kaggle": "https://www.kaggle.com/",
+		"Count Vectorizer": "https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.CountVectorizer.html",
+		"tf-idf": "https://ja.wikipedia.org/wiki/Tf-idf",
+		"word2vec": "https://en.wikipedia.org/wiki/Word2vec",
+		"doc2vec": "https://upura.hatenablog.com/entry/2018/01/21/184700",
+		"現場で使える Django REST Framework の教科書 ": "https://www.amazon.co.jp/gp/product/B07XWL8FPM/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B07XWL8FPM&linkCode=as2&tag=concast-22&linkId=4d5a82e4e2b902b2a6b8eaa86e930afa",
+		"現場で使える Django の教科書": "https://www.amazon.co.jp/gp/product/B07GK7BWB7/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B07GK7BWB7&linkCode=as2&tag=concast-22&linkId=6ac8c837c17ddb39bda5f4aefd329c1e",
+		"Trajectory Data Mining: An Overview (Microsoft)": "https://www.microsoft.com/en-us/research/publication/trajectory-data-mining-an-overview/",
+		"MBTI(性格診断)": "https://ja.wikipedia.org/wiki/MBTI",
+		"TidalCycles": "https://tidalcycles.org/index.php/Welcome",
+		"FoxDot": "https://foxdot.org/",
+		"Foxdot coffee session #1 [live coding]": "https://www.youtube.com/watch?v=msD86xtfUOI",
+		"アメリカン・ビューティー (Amazon)": "https://www.amazon.co.jp/gp/product/B07B17WQGF/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B07B17WQGF&linkCode=as2&tag=concast-22&linkId=7f22f7f795552558fc0c37703dc13b8b",
+		"カッコーの巣の上で (Amazon)": "https://www.amazon.co.jp/gp/product/B00FIWMJ2M/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B00FIWMJ2M&linkCode=as2&tag=concast-22&linkId=77387070902010ef55f3111547e10ee1",
+		"シャイニング (Amazon Prime)": "https://www.amazon.co.jp/gp/product/B00GM4COXO?ie=UTF8",
+		"時計じかけのオレンジ (Wikipedia)": "https://ja.wikipedia.org/wiki/%E6%99%82%E8%A8%88%E3%81%98%E3%81%8B%E3%81%91%E3%81%AE%E3%82%AA%E3%83%AC%E3%83%B3%E3%82%B8",
+		"博士の異常な愛情 または私は如何にして心配するのを止めて水爆を愛するようになったか (Amazon)": "https://www.amazon.co.jp/gp/product/B000KRN5IM/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B000KRN5IM&linkCode=as2&tag=concast-22&linkId=18a82ba3bb1e36498569104058539011",
+		"2001年宇宙の旅 (Wikipedia)": "https://ja.wikipedia.org/wiki/2001%E5%B9%B4%E5%AE%87%E5%AE%99%E3%81%AE%E6%97%85",
+		"ウィリアム・テル (Wikipedia)": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A3%E3%83%AA%E3%82%A2%E3%83%A0%E3%83%BB%E3%83%86%E3%83%AB",
+		"ミスト (Amazon)": "https://www.amazon.co.jp/gp/product/B0743LC3BM/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=concast-22&creative=1211&linkCode=as2&creativeASIN=B0743LC3BM&linkId=3dd17d55f301e5221b6fcf1b179ddfb0",
+		"ダンサー・イン・ザ・ダーク (Amazon)": "https://www.amazon.co.jp/gp/product/B01F328PUG/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=concast-22&creative=1211&linkCode=as2&creativeASIN=B01F328PUG&linkId=79bbb2dd7d305f744a1480cbe6ba2bcc",
+		"シビル・ウォー (Amazon)": "https://www.amazon.co.jp/gp/product/B01IURA8YW/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=concast-22&creative=1211&linkCode=as2&creativeASIN=B01IURA8YW&linkId=dfc800a607202bd9297bc09111fb7de9",
+		"ダークナイト (Amazon)": "https://www.amazon.co.jp/gp/product/B00FIWN8WM/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=concast-22&creative=1211&linkCode=as2&creativeASIN=B00FIWN8WM&linkId=7ae7ff9f878c0b6de0c2a4d1798a97a3",
+		"Black Panther (Amazon)": "https://www.amazon.co.jp/gp/product/B07D3SMW4F/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=concast-22&creative=1211&linkCode=as2&creativeASIN=B07D3SMW4F&linkId=8f7fcb05ad5075b3b4af32a0d7b15539",
+		"アベンジャーズ (Amazon)": "https://www.amazon.co.jp/gp/product/B07SNPD9TB/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=concast-22&creative=1211&linkCode=as2&creativeASIN=B07SNPD9TB&linkId=c8905ccc7b06a4c23080ac40954c0bc7",
+		"GIRLS": "https://www.amazon.co.jp/gp/product/B07D456HLC/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=concast-22&creative=1211&linkCode=as2&creativeASIN=B07D456HLC&linkId=2a523b3303536d322a575526868f0af4"
+	},
+	"Memo":""
+}
+

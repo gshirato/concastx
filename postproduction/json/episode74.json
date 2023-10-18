@@ -1,0 +1,25 @@
+{
+	"Number": "74",
+	"Genre": "con",
+	"GenreNumber": "n",
+	"Title": "第9回スポアナ感想戦",
+	"Starr":{
+		"Gota": "Gota",
+		"shoppi": "Koichi Kinoshita",
+		"upura": "upura"
+	},
+	"Topics":[
+		
+	],
+    "References":{
+		"Sports Analyst Meetup": "https://spoana.connpass.com/",
+		"スポアナ #9": "https://spoana.connpass.com/event/190699/",
+		"Basketball Behavior Challenge 1st Place Solution": "https://speakerdeck.com/upura/basketball-behavior-challenge-1st-place-solution?slide=7",
+		"八村は将来どんな選手になり得るのか": "https://docs.google.com/presentation/d/1zh8_-eY4N5BS7ZdYujCNuvpS7AGX2auiYoKaW94ybUw/edit",
+		"集団スポーツの選手軌道予測（2）": "https://www.slideshare.net/KeisukeFujii1/2-240061151?ref=https://spoana.connpass.com/",
+		"海外のFootball Performance Analyst要件から考えてみた": "https://drive.google.com/file/d/1BsQ8GtxLsHxZIuHsQGurM49FeJJ5BaNm/view",
+		"慶大野球部のリーグ戦中にアナリストの僕が取り組んだこと": "https://www2.slideshare.net/raijinshibata/ss-240062315",
+		"坂本勇人選手はいつ通算3,000安打を達成するか? AIに聞いてみました": "https://speakerdeck.com/shinyorke/hayato-sakamoto-performance-prediction-using-feature-engineering-with-machine-learning-and-python"
+	},
+	"Memo":""
+}

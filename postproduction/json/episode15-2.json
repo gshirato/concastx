@@ -1,0 +1,42 @@
+{
+	"Number": "15-2",
+	"Genre": "con",
+	"GenreNumber": "n",
+	"Title": "ゼロイチ兄弟",
+	"RecDate":"2020-03-07",
+	"PubDate":"2020-03-13",
+	"Starr":{
+		"Gota": "Gota Shirato",
+		"Kondo": "Ryosuke Kondo",
+		"Takumi": "Takumi Sato",
+		"Katashin": "Shin Katayama"
+	},
+	"Topics":[
+		"YouTuberたち",
+		"ゼロイチ兄弟",
+		"XFactor"
+	],
+	"Effects":[
+		{
+			
+		}
+	],
+	"Chapter":[
+	
+	],
+    "References":{
+		"学振": "https://www.jsps.go.jp/j-pd/",
+		"カノン進行": "https://sakkyoku.info/theory/canon-chords/",
+		"スピッツ アフリカで見っけ「ロビンソン」/SPITZ Robinson by ビコマナ (BIKO'S MANNA)": "https://www.youtube.com/watch?v=17RomprW58E",
+		"Michael Jackson - Je ne veux pas la fin de nous ( I just cant stop loving you french version)": "https://www.youtube.com/watch?v=wu_UvqP6PKs",
+		"ZAZ - Champs Elysées (Clip officiel)": "https://www.youtube.com/watch?v=ObeDLFcceJ0",
+		"アメリカズ・ゴット・タレント": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%82%BA%E3%83%BB%E3%82%B4%E3%83%83%E3%83%88%E3%83%BB%E3%82%BF%E3%83%AC%E3%83%B3%E3%83%88",
+		"Xファクター": "https://ja.wikipedia.org/wiki/X%E3%83%95%E3%82%A1%E3%82%AF%E3%82%BF%E3%83%BC_(%E3%83%86%E3%83%AC%E3%83%93%E7%95%AA%E7%B5%84)",
+		"ザ・ヴォイス": "https://ja.wikipedia.org/wiki/%E3%82%B6%E3%83%BB%E3%83%B4%E3%82%A9%E3%82%A4%E3%82%B9",
+		"アダム・ランバート": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%80%E3%83%A0%E3%83%BB%E3%83%A9%E3%83%B3%E3%83%90%E3%83%BC%E3%83%88",
+		"Fukushima50": "https://www.fukushima50.jp/",
+		"中田敦彦【熱狂】エクストリーム漫画「スラムダンク」編": "https://www.youtube.com/watch?v=ccvgJ1-QyNY"
+	},
+	"Memo":""
+}
+

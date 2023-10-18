@@ -1,0 +1,41 @@
+ {
+	"Number": "100",
+	"Genre": "con",
+	"GenreNumber": "n",
+	"Title": "百回目だヨ。人気エピソード発表！",
+	"Starr":{
+		"Gota": "Gota Shirato",
+		"Kondo": "Ryosuke Kondo"
+	},
+	"Topics":[
+		"Concast is Clubhouse",
+		"放送作家",
+		"名言生産機",
+		"今年やりたいこと"
+	],
+    "References":{
+		"おたよりコーナー": "https://forms.gle/1VjUsrk8TB1fQqL86",
+		"#2 客寄せパンダ": "https://sports-con.xyz/concast-2/",
+		"#11-1 ボールはどっちにあるんだ": "https://sports-con.xyz/concast-11/",
+		"#12-3 Rail Theory": "https://sports-con.xyz/concast-12-ter/",
+		"#13-1 Compared to the universe": "https://sports-con.xyz/concast-13-1/",
+		"#17 人生で影響を受けたコトで打線を組んでみた": "https://sports-con.xyz/concast-17/",
+		"#21-2 名前がかっこいいサッカー選手": "https://sports-con.xyz/concast-21-2/",
+		"#31 お悩み相談はじめました": "https://sports-con.xyz/concast-31/",
+		"#32 賞味期限は24時間": "https://sports-con.xyz/concast-32/",
+		"#33-3 強すぎる下位打線": "https://sports-con.xyz/concast-33-3/",
+		"#41 Poker is Sports": "https://sports-con.xyz/concast-41/",
+		"#46 ジッカーズのレッドはオレにきまってる": "https://sports-con.xyz/concast-46/",
+		"#47 地球の「美味しい」をもっと届けたい": "https://sports-con.xyz/concast-47/",
+		"#50 @WeWereInParis": "https://sports-con.xyz/concast-50/",
+		"#55-2 行動心理学シリーズ①「次こそは心理」": "https://sports-con.xyz/concast-55-2/",
+		"#69-2 おすすめティックトッカーとM1ファイナリストを教えてもらった": "https://sports-con.xyz/concast-69-2/",
+		"#73 spoana振り返り(Gota, K, upura)": "https://sports-con.xyz/concast-73/",
+		"#75 M-1グランプリを10倍楽しむには": "https://sports-con.xyz/concast-75/",
+		"#77 プレゼント、何贈る？ ": "https://sports-con.xyz/concast-77/",
+		"#84-1 人生に影響を与えたことで打線を組んでみた 前編": "https://sports-con.xyz/concast-84-1/",
+		"#91 スーパーボウル直前！アメフトを教えてもらった": "https://sports-con.xyz/concast-91/",
+		"#95 お悩み相談だよ": "https://sports-con.xyz/concast-95/"
+	},
+	"Memo":""
+}

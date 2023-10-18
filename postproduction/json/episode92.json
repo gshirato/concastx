@@ -1,0 +1,26 @@
+{
+	"Number": "92",
+	"Genre": "con",
+	"GenreNumber": "n",
+	"Title": "Hot Week News 第一回",
+	"Starr":{
+		"Gota": "Gota Shirato",
+		"Kondo": "Ryosuke Kondo"
+	},
+	"Topics":[
+		"おたよりテーマ「私とダイエット」",
+		"HWN うみの杜水族館",
+		"HWN:フェンタニル",
+		"オンライン授業サボる",
+		"GOTアニメ化",
+		"ハリポタドラマ化",
+		"コンドーとエマ・ワトソン",
+		"#HWN"
+	],
+    "References":{
+		"おたよりコーナー": "https://forms.gle/1VjUsrk8TB1fQqL86",
+		"水族館にある『アナゴの水槽』にツッコミが止まらない": "https://www.excite.co.jp/news/article/Grape_915332/",
+		"ハサン・ミンハジ: 愛国者として物申す": "https://www.netflix.com/title/80239931"
+	},
+	"Memo":""
+}

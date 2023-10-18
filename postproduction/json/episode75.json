@@ -1,0 +1,20 @@
+{
+	"Number": "75",
+	"Genre": "con",
+	"GenreNumber": "n",
+	"Title": "M-1グランプリを10倍楽しむには",
+	"Starr":{
+		"Gota": "Gota",
+		"Kondo": "Ryosuke Kondo",
+		"Katashin": "Shin Katayama"
+	},
+	"Topics":[
+		
+	],
+    "References":{
+		"Gyao! M-1グランプリ": "https://gyao.yahoo.co.jp/specials/m1gp",
+		"学天即": "https://ja.wikipedia.org/wiki/%E5%AD%A6%E5%A4%A9%E5%8D%B3",
+		"ウエストランド ": "https://www.m-1gp.com/combi/1984.html"
+	},
+	"Memo":""
+}

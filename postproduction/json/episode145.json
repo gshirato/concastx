@@ -1,0 +1,27 @@
+{
+	"Number": "145",
+	"Genre": "con",
+	"GenreNumber": "n",
+	"Title": "カナダへ旅立ちます",
+	"Starr":{
+		"Gota": "Gota Shirato",
+		"Takumi": "Takumi Sato"
+	},
+	"Topics":[
+		"仏検合格おめでとう",
+		"28日後に勝つ佐藤",
+		"ワーホリ",
+		"ゲームフィケーション",
+		"音楽理論",
+		"テームプッキ"
+	],
+    "References":{
+		"Concastについて": "https://linktr.ee/concastx",
+		"Notion – One workspace. Every team.": "https://www.notion.so/",
+		"Duolingo": "https://ja.duolingo.com/",
+		"スカモン | デジモン図鑑": "https://digimon.net/reference/detail.php?directory_name=scumon",
+		"What's the difference between 3/4 and 6/8 time? - YouTube": "https://www.youtube.com/watch?v=N4q2kBe82-o&t=5s",
+		"Songs that use 5/4 time - YouTube": "https://www.youtube.com/watch?v=KQ76-WiFTlo"
+	},
+	"Memo":""
+}

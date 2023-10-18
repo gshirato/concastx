@@ -1,0 +1,27 @@
+{
+	"Number": "37",
+	"Genre": "con",
+	"GenreNumber": "n",
+	"Title": "",
+	"Starr":{
+	},
+	"Topics":[
+		
+	],
+	"Effects":[
+		{
+			
+		}
+	],
+	"Chapter":[
+	
+	],
+    "References":{
+		"Progate": "https://prog-8.com",
+		"フラットアーサー": "https://ja.wikipedia.org/wiki/%E5%9C%B0%E7%90%83%E5%B9%B3%E9%9D%A2%E5%8D%94%E4%BC%9A",
+		"金欠学生がはじめる機械学習の学習(5つ方法と5つのステップ)": "https://qiita.com/gshirato/items/2e2564315de8fcc1fec9"
+		
+
+	},
+	"Memo":""
+}

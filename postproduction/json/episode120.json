@@ -1,0 +1,33 @@
+{
+	"Number": "120",
+	"Genre": "con",
+	"GenreNumber": "n",
+	"Title": "データx野球の楽しみ方",
+	"Starr":{
+		"Gota": "Gota Shirato",
+		"Raijin": "Raijin"
+	},
+	"Topics":[
+		"大学野球でデータ分析",
+		"スポアナ",
+		"妄想・検証・深堀",
+		"データフロー",
+		"オートペナント",
+		"吉田正尚"
+	],
+    "References":{
+		"おたより待ってます": "https://forms.gle/1VjUsrk8TB1fQqL86",
+		"スポアナ第10回は2021年6月26日に開催予定": "https://spoana.connpass.com/event/213076/",
+		"吉田尚正": "https://ja.wikipedia.org/wiki/%E5%90%89%E7%94%B0%E6%AD%A3%E5%B0%9A",
+		"UZR (アルティメット・ゾーン・レーティング)": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%83%86%E3%82%A3%E3%83%A1%E3%83%83%E3%83%88%E3%83%BB%E3%82%BE%E3%83%BC%E3%83%B3%E3%83%BB%E3%83%AC%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0",
+		"慶大野球部の新たな挑戦　学生球界では異例の「アナリスト」部門新設": "https://www.sponichi.co.jp/baseball/news/2020/11/21/kiji/20201120s00001089344000c.html",
+		"六大学野球": "https://www.big6.gr.jp/index.php",
+		"林卓史": "https://keispo.org/wordpress/?p=38951",
+		"カルチョビット": "https://www.gameaddict.co.jp/calcioa/",
+		"リンウェイツゥ": "https://ja.wikipedia.org/wiki/%E6%9E%97%E5%A8%81%E5%8A%A9",
+		"What do data analysts and data scientists do at a football club?": "https://www.youtube.com/watch?v=GLcGf-8oqO4&t=29s",
+		"Baseball Savant": "https://baseballsavant.mlb.com/statcast_leaderboard",
+		"ソニーの「ホークアイ」で投球や打球解析。ヤクルトがプロ野球初導入": "https://www.watch.impress.co.jp/docs/news/1267969.html"
+	},
+	"Memo":""
+}

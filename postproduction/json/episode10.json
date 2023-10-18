@@ -1,0 +1,56 @@
+{
+	"Number": "10",
+	"Title": "岩手の車窓からスポーツとビジネス ",
+	"RecDate":"2019-12-29",
+	"PubDate":"2020-01-05",
+	"Starr":{
+		"Gota": "Gota Shirato",
+        "Gorilla": "Sho Uemori"
+	},
+	"Topics":[
+		"岩手旅行",
+		"テレワーク",
+		"本",
+		"J League PUB Report"
+	],
+	"Effects":[
+		{
+			
+		}
+	],
+	"Chapter":[
+		{
+			"Time": "00:00:00",
+			"Text": "岩手からの新幹線"
+		},
+		{
+			"Time": "00:05:30",
+			"Text": "本: スポーツとビジネス"
+		},
+		{
+			"Time": "00:14:25",
+			"Text": "どんな男になんねん"
+		},
+		{
+			"Time": "00:23:20",
+			"Text": "J. League PUB Report"
+		},
+		{
+			"Time": "00:46:00",
+			"Text": "平和とスポーツ"
+		},
+		{
+			"Time": "00:51:15",
+			"Text": "JリーグのProject DNA"
+		}
+	],
+    "References":{
+		"筑波大サッカー部": "https://qoly.jp/2018/06/05/tsukuba-shukyu-promotion-team-interview-oks-1",
+		"どんな男になんねん": "https://www.amazon.co.jp/%E3%81%A9%E3%82%93%E3%81%AA%E7%94%B7%E3%81%AB%E3%81%AA%E3%82%93%E3%81%AD%E3%82%93-%E9%96%A2%E8%A5%BF%E5%AD%A6%E9%99%A2%E5%A4%A7%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%83%B3%E3%83%95%E3%83%83%E3%83%88%E3%83%9C%E3%83%BC%E3%83%AB%E9%83%A8-%E9%B3%A5%E5%86%85%E6%B5%81%E3%80%8C%E4%BA%BA%E3%81%AE%E8%82%B2%E3%81%A6%E6%96%B9%E3%80%8D-%E9%B3%A5%E5%86%85-%E7%A7%80%E6%99%83/dp/4583112580/ref=sr_1_1?keywords=%E3%81%A9%E3%82%93%E3%81%AA%E7%94%B7%E3%81%AB%E3%81%AA%E3%82%93%E3%81%AD%E3%82%93&qid=1578228114&sr=8-1",
+		"「J.LEAGUE PUB REPORT 2019」本日公開！【Ｊリーグ】": "https://www.jleague.jp/news/article/16264/?mode=jleague-static",
+		"Jリーグをつかおう！シャレン": "https://www.jleague.jp/sharen/",
+		"ワールドクラスの選手を輩出するために――。「PROJECT DNA」が描くＪリーグの未来像【インタビュー】": "https://www.jleague.jp/news/article/14694/"
+		
+	},
+	"Memo":""
+}

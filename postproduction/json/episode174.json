@@ -1,0 +1,29 @@
+{
+	"Number": "174",
+	"Genre": "Con",
+	"GenreNumber": "n",
+	"Title": "コンキャストと振り返る2022年",
+	"Starr": {
+		"Gota": "Gota Shirato",
+		"Uesho": "Uesho"
+	},
+	"Topics": [
+		"2022年の出来事",
+		"うえぽんの2022",
+		"Concast的2022年",
+		"カレンダーで振り返る",
+		"打席に立つ",
+		"すすきの"
+	],
+	"References": {
+		"無料でOpenAIの「Whisper」を使って録音ファイルから音声認識で文字おこしする方法まとめ - GIGAZINE": "https://gigazine.net/news/20220929-openai-whisper-install-and-usage/",
+		"セーシェル - Wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%BC%E3%82%B7%E3%82%A7%E3%83%AB",
+		"Alice Springs - Wikipedia": "https://en.wikipedia.org/wiki/Alice_Springs",
+		"▼Concast各種リンク": "https://linktr.ee/concastx",
+		"Twitter": "https://twitter.com/concastx",
+		"Facebook": "https://www.facebook.com/concastx",
+		"Instagram": "https://www.instagram.com/concastx",
+		"TikTok": "https://www.tiktok.com/@concastx"
+	},
+	"Memo": ""
+}

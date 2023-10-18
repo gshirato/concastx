@@ -1,0 +1,19 @@
+{
+	"Number": "141-4",
+	"Genre": "con",
+	"GenreNumber": "n",
+	"Title": "世界一早いアカデミー賞 - おうち時間賞",
+	"Starr":{
+		"Gota": "Gota Shirato",
+		"Kondo": "Ryosuke Kondo"
+	},
+	"Topics":[
+		"おうち時間が始まってからみた映画、ここ一年でみた映画を紹介"
+	],
+    "References":{
+		"Concastの詳細はこちらから": "https://linktr.ee/concastx",
+		"ハーフ・オブ・イット: 面白いのはこれから - Wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%BC%E3%83%95%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%82%A4%E3%83%83%E3%83%88:_%E9%9D%A2%E7%99%BD%E3%81%84%E3%81%AE%E3%81%AF%E3%81%93%E3%82%8C%E3%81%8B%E3%82%89",
+		"浅草キッド (小説) - Wikipedia": "https://ja.wikipedia.org/wiki/%E6%B5%85%E8%8D%89%E3%82%AD%E3%83%83%E3%83%89_(%E5%B0%8F%E8%AA%AC)#%E6%98%A0%E7%94%BB"
+	},
+	"Memo":""
+}

@@ -1,0 +1,22 @@
+{
+	"Number": "146-2",
+	"Genre": "con",
+	"GenreNumber": "n",
+	"Title": "カタールの空想旅行で大破産",
+	"Starr":{
+		"Gota": "Gota Shirato",
+		"Kondo": "Ryosuke Kondo",
+		"Yuda": "Yuki Yuda"
+	},
+	"Topics":[
+		"カタール机上旅行",
+		"予選から優勝まで",
+		"フライト高すぎ問題",
+		"宿(大)問題",
+		"カタール開催の問題"
+	],
+    "References":{
+		"Concastについて": "https://linktr.ee/concastx"
+	},
+	"Memo":""
+}

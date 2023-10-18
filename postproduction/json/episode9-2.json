@@ -1,0 +1,69 @@
+{
+	"Number": "9-2",
+	"Title": "Communication",
+	"RecDate":"2019-11-02",
+	"PubDate":"2019-11-20",
+	"Starr":{
+		"Gota": "Gota Shirato",
+        "Takumi": ""
+	},
+	"Topics":[
+		"マッチングアプリ",
+        "会話"
+	],
+	"Effects":[
+		{
+			
+		}
+	],
+	"Chapter":[
+		{
+			"Time": "00:00:00",
+			"Text": "Tinder"
+        },
+        {
+			"Time": "00:17:30",
+			"Text": "ソーシャルアプリ"
+        },
+        {
+			"Time": "00:35:30",
+			"Text": "マッチングアプリ"
+        },
+        {
+			"Time": "00:40:15",
+			"Text": "Petit Biscuit"
+        },
+        {
+			"Time": "00:47:10",
+			"Text": "会話のメタ"
+		},
+		{
+			"Time": "00:52:50",
+			"Text": "上手に会話をする方法"
+		},
+		{
+			"Time": "01:25:20",
+			"Text": "赤ちゃんからイエスマンへ"
+		},
+		{
+			"Time": "01:42:20",
+			"Text": "会話 in ビジネス"
+		},
+		{
+			"Time": "02:03:11",
+			"Text": "ここでノイズが終わります🙇"
+		}
+	],
+    "References":{
+        "「Tinder」はデートのためのアプリなので、…": "https://twitter.com/JICRochelle/status/1169114041668767744",
+        "@Tinder_Japan (Twitter)": "https://twitter.com/Tinder_Japan",
+        "With": "https://with.is/welcome",
+		"#thankstinder (Instagram)": "https://www.instagram.com/explore/tags/thankstinder/?hl=en",
+		"ブラックミラー HANG THE DJ": "https://www.netflix.com/title/70264888?s=i&trkid=13747225",
+        "Demain (Bigflo et Oli)": "https://en.wikipedia.org/wiki/Demain_(song)",
+        "Petit Biscuit": "https://www.petitbiscuit.fr/",
+        "MrSuicideSheep": "https://www.youtube.com/channel/UC5nc_ZtjKW1htCVZVRxlQAQ",
+        "セレステ・ヘッドリー | 上手に会話する10の方法": "https://www.ted.com/talks/celeste_headlee_10_ways_to_have_a_better_conversation/transcript?language=ja"
+	},
+	"Memo":""
+}

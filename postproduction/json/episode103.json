@@ -1,0 +1,21 @@
+{
+	"Number": "103",
+	"Genre": "con",
+	"GenreNumber": "n",
+	"Title": "You can do whatever you want[Ja/Fr]",
+	"Starr":{
+		"Gota": "Gota Shirato",
+		"Charles-Elie": "Charles-Elie"
+	},
+	"Topics":[
+		"日本の生活 (la vie au Japon)",
+		"ドイツの生活 (la vie en Allemagne)",
+		"Youtuber",
+		"Podcast",
+		"Nantes"
+	],
+    "References":{
+		"おたよりコーナー": "https://forms.gle/1VjUsrk8TB1fQqL86"
+	},
+	"Memo":""
+}

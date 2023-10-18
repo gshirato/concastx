@@ -1,0 +1,35 @@
+{
+	"Number": "11-bis",
+	"Title": "走り練習とシンスプ",
+	"RecDate":"2019-01-04",
+	"PubDate":"2020-01-06",
+	"Starr":{
+		"Gota": "Gota Shirato",
+		"Kondo": "Kondo Ryosuke",
+		"Yonehara": "Yuki Yonehara",
+		"Yuda": "Yuki Yuda"
+	},
+	"Topics":[
+		"高校部活と走り練習",
+		"シンスプ"
+	],
+	"Effects":[
+		{
+			
+		}
+	],
+	"Chapter":[
+		{
+			"Time": "00:00:00",
+			"Text": "高校部活と走り練習"
+		},
+		{
+			"Time": "00:05:44",
+			"Text": "シンスプ"
+		}
+	],
+    "References":{
+		
+	},
+	"Memo":""
+}

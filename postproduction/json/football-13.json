@@ -1,0 +1,51 @@
+{
+	"Number": "football-13",
+	"Genre": "con",
+	"GenreNumber": "n",
+	"Title": "新シリーズスタート FB支部#13",
+	"Starr":{
+		"Gota": "Gota Shirato",
+		"Yuda": "Yuki Yuda"
+	},
+	"Topics":[
+		"ここ一ヶ月の記事振り返り w/ Notion",
+		"浦和レッズドキュメンタリー",
+		"ゴール期待値・パスネットワーク",
+		"日本代表",
+		"ドイツ拠点",
+		"Sporteria",
+		"The Athletic"
+
+	],
+    "References":{
+		"おたよりはこちらから": "https://forms.gle/1VjUsrk8TB1fQqL86",
+		"「終わった監督」はなぜ北海道にやってきたのか～ミシャ就任前史～ ": "https://note.com/negacle/n/n2504485c9476",
+		"Diament, który próbuje odzyskać swój blask. Rozmowa z dyrektorem technicznym Urawy Reds.": "https://azjagola.com/2021/09/09/diament-ktory-probuje-odzyskac-swoj-blask-rozmowa-z-dyrektorem-technicznym-urawy-reds/",
+		"自信と謙虚": "https://ameblo.jp/tsutomu-nishino/entry-12701527968.html",
+		"“浦和のダイナモ”が中盤をけん引　柴戸海は今季さらなる成長を見せる": "https://www.theworldmagazine.jp/20210913/05feature/321781?amp=1",
+		"浦和　高校No.1FW京都橘・木原励の来季加入が内定　次代エース候補は万能型ストライカー": "https://www.sponichi.co.jp/soccer/news/2021/09/15/kiji/20210915s00002179147000c.html?amp=1#click=https://t.co/baDu5KQDzU",
+		"浦和リカルド監督、酒井宏樹の状態は「非常に良い」　西大伍のシャドー＆ボランチ起用プランも明かす": "https://news.yahoo.co.jp/articles/b403c3a3df9782687e5bb2ff07888532c503f4f3",
+		"浦和レッズ初のドキュメンタリーシリーズ": "https://e-shop.urawa-reds.co.jp/special/2021real_documentary",
+		"浦和の“攻撃”で武器となった岩波拓也　高精度キックで存在感を残すCB": "https://www.theworldmagazine.jp/20210919/05feature/322324?amp=1",
+		"東京V、「永井監督」電撃辞任の内幕　まだあったパワハラ＆暴言に選手は今も辟易": "https://www.dailyshincho.jp/article/2021/09190601/?all=1",
+		"ACLで激突！浦項陣営はC大阪をどう分析した？「監督交代で組織的に」「Jでは苦しんでいるが…」": "https://sportsseoulweb.jp/sports_topic/id=35019",
+		"日本代表がドイツにも拠点！巨額投じ天然芝１面とクラブハウス設置プラン": "https://www.nikkansports.com/soccer/japan/news/202109070000572.html",
+		"日本代表、いつもの「対アンカー問題」。解決策はピッチにあるのか？": "https://www.footballista.jp/special/119092",
+		"データも裏付けたDF冨安健洋の凄み。移籍交渉の場でも役立つ「テクノロジー活用」": "https://news.yahoo.co.jp/articles/b7a6d0219fefe4fb08ba1561a02fcdfc87dba39f",
+		"SPORTERIA | スポーツアナリティクスをもっと身近に": "https://sporteria.jp/",
+		"浦和vs神戸 ゴール期待値": "https://sporteria.jp/data/2021100205/185381",
+		"浦和vs神戸 パスネットワーク": "https://sporteria.jp/data/2021100205/185381",
+		"ゴール期待値 (J1 2021シーズン)": "https://www.football-lab.jp/summary/team_ranking/j1/?year=2021&data=expected",
+		"KAGI/AGI": "https://www.football-lab.jp/summary/team_ranking/j1/?year=2021&data=kagi",
+		"日本サッカー界のキャリアプランが一変する!? 三笘薫、林大地、大学組の海外移籍は「事件」だ": "https://sportiva.shueisha.co.jp/clm/football/jleague_other/2021/09/16/post_136/",
+		"Jリーグ所属の全クラブをビジネスマネジメント面からランキングした「Jリーグ マネジメントカップ2020」を発表": "https://www2.deloitte.com/jp/ja/pages/about-deloitte/articles/news-releases/nr20210928.html?id=jp:2sm:3tw:4News,JMC::6abt:20210928021805::5583996691:5&utm_source=tw&utm_campaign=News,JMC&utm_content=abt&utm_medium=social&linkId=133479534",
+		"プロ野球、Jリーグで実証実験へ　制限緩和で西村担当相　新型コロナ": "https://news.yahoo.co.jp/articles/f6ab588df0344849ec08a807e513a28b8988544b",
+		"Ｊリーグ理事会後の生配信（2021年9月）！Ｊリーグをもっと好きになる情報番組「ＪリーグTV」2021年9月28日": "https://www.youtube.com/watch?v=Azjn3l9a4JQ",
+		"【5試合無失点の背景】あの川崎戦で岩波拓也がたどり着いた境地…「ショルツと『最高やな』って」": "https://news.line.me/issue/oa-urawaredsnews/uhx5zqmqx8fz",
+		"The Athletic": "https://theathletic.com/",
+		"三笘薫と田中碧が抜け、ケガ人続出、ルヴァンとACL連続敗退… “横綱相撲”を取れないフロンターレは「悪い流れ」を断ち切れるのか": "https://number.bunshun.jp/articles/-/849844",
+		"サッカー王国　新サッカースタジアム建設に関する調査会社決定へ　静岡市": "https://news.yahoo.co.jp/articles/90cb43047fcc800d40c4749a77d0bbb92e4c725f"
+
+	},
+	"Memo":""
+}

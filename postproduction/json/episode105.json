@@ -1,0 +1,20 @@
+{
+	"Number": "105",
+	"Genre": "con",
+	"GenreNumber": "n",
+	"Title": "ひびきを求めて",
+	"Starr":{
+		"Gota": "Gota Shirato",
+		"Kondo": "Ryosuke Kondo",
+		"Yuda": "Yuki Yuda"
+	},
+	"Topics":[
+		"声に出して読みたい日本語を集めてみた"
+	],
+    "References":{
+		"おたよりコーナー": "https://forms.gle/1VjUsrk8TB1fQqL86",
+		"麺屋一燈 (いっとう)": "https://tabelog.com/tokyo/A1312/A131204/13111737/",
+		"世界一うまい黒胡椒せんべい": "http://www.kurokosyousen.com/shop/item_list?category_id=325304"
+	},
+	"Memo":"ひびきを求めて、自然と一緒"
+}

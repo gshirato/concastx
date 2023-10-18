@@ -1,0 +1,27 @@
+{
+	"Number": "162",
+	"Genre": "Con",
+	"GenreNumber": "n",
+	"Title": "レスターとコンビに",
+	"Starr":{
+		"Gota": "Gota Shirato",
+		"Oga": "Oga"
+	},
+	"Topics":[
+		"私とMPG",
+		"メンバー発表",
+		"BAD coaching",
+		"来シーズンに持ち越したい選手",
+		"お悩み相談",
+		"旧親友対決"
+	],
+    "References":{
+		"MPG": "https://mpg.football",
+		"▼Concast各種リンク": "https://linktr.ee/concastx",
+		"Twitter": "https://twitter.com/concastx",
+		"Facebook": "https://www.facebook.com/concastx",
+		"Instagram": "https://www.instagram.com/concastx",
+		"TikTok": "https://www.tiktok.com/@concastx"
+	},
+	"Memo":""
+}

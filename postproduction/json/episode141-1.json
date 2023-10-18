@@ -1,0 +1,23 @@
+{
+	"Number": "141-1",
+	"Genre": "con",
+	"GenreNumber": "n",
+	"Title": "世界一早いアカデミー賞 - 独自部門①",
+	"Starr":{
+		"Gota": "Gota Shirato",
+		"Kondo": "Ryosuke Kondo"
+	},
+	"Topics":[
+		"楽曲賞",
+		"1より2が面白い賞"
+	],
+    "References":{
+		"おたよりください": "https://forms.gle/1VjUsrk8TB1fQqL86",
+		"レザボア・ドッグス - Wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%B6%E3%83%9C%E3%82%A2%E3%83%BB%E3%83%89%E3%83%83%E3%82%B0%E3%82%B9",
+		"Little Green Bag - Wikipedia": "https://en.wikipedia.org/wiki/Little_Green_Bag",
+		"荒野の果てに - Wikipedia": "https://ja.wikipedia.org/wiki/%E8%8D%92%E9%87%8E%E3%81%AE%E6%9E%9C%E3%81%A6%E3%81%AB",
+		"エイリアン2 - Wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%A4%E3%83%AA%E3%82%A2%E3%83%B32",
+		"シガニー・ウィーバー - Wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%82%AC%E3%83%8B%E3%83%BC%E3%83%BB%E3%82%A6%E3%82%A3%E3%83%BC%E3%83%90%E3%83%BC"
+	},
+	"Memo":""
+}

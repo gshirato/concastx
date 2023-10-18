@@ -1,0 +1,23 @@
+{
+	"Number": "141-2",
+	"Genre": "con",
+	"GenreNumber": "n",
+	"Title": "世界一早いアカデミー賞 - 独自部門②",
+	"Starr":{
+		"Gota": "Gota Shirato",
+		"Kondo": "Ryosuke Kondo"
+	},
+	"Topics":[
+		"癖タイトル賞",
+		"とにかく笑える賞"
+	],
+    "References":{
+		"おたよりください": "https://forms.gle/1VjUsrk8TB1fQqL86",
+		"スイス・アーミー・マン - Wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%A4%E3%82%B9%E3%83%BB%E3%82%A2%E3%83%BC%E3%83%9F%E3%83%BC%E3%83%BB%E3%83%9E%E3%83%B3",
+		"雨の日は会えない、晴れた日は君を想う - Wikipedia": "https://ja.wikipedia.org/wiki/%E9%9B%A8%E3%81%AE%E6%97%A5%E3%81%AF%E4%BC%9A%E3%81%88%E3%81%AA%E3%81%84%E3%80%81%E6%99%B4%E3%82%8C%E3%81%9F%E6%97%A5%E3%81%AF%E5%90%9B%E3%82%92%E6%83%B3%E3%81%86",
+		"湯を沸かすほどの熱い愛 - Wikipedia": "https://ja.wikipedia.org/wiki/%E6%B9%AF%E3%82%92%E6%B2%B8%E3%81%8B%E3%81%99%E3%81%BB%E3%81%A9%E3%81%AE%E7%86%B1%E3%81%84%E6%84%9B",
+		"ラヂオの時間 - Wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%82%E3%82%AA%E3%81%AE%E6%99%82%E9%96%93",
+		"大空港2013 - Wikipedia": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E7%A9%BA%E6%B8%AF2013"
+	},
+	"Memo":"修学旅行の夜"
+}

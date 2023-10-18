@@ -1,0 +1,24 @@
+{
+	"Number": "117",
+	"Genre": "con",
+	"GenreNumber": "n",
+	"Title": "COMPLETE Meal",
+	"Starr":{
+		"Gota": "Gota Shirato",
+		"AI": "AI"
+	},
+	"Topics":[
+		"ナント時代の大先輩と",
+		"Antcicada",
+		"完全食",
+		"包材・資源",
+		"ナント"
+	],
+    "References":{
+		"おたより待ってます": "https://forms.gle/1VjUsrk8TB1fQqL86",
+		"ANTCICADA": "https://antcicada.com/",
+		"ソイレント・グリーン": "https://ja.wikipedia.org/wiki/%E3%82%BD%E3%82%A4%E3%83%AC%E3%83%B3%E3%83%88%E3%83%BB%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3",
+		"生ジョッキ缶": "https://www.asahibeer.co.jp/superdry/namajokkikan/"
+	},
+	"Memo":""
+}

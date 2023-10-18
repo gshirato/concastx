@@ -1,0 +1,20 @@
+{
+	"Number": "141-5",
+	"Genre": "con",
+	"GenreNumber": "n",
+	"Title": "世界一早いアカデミー賞 - 役者部門",
+	"Starr":{
+		"Gota": "Gota Shirato",
+		"Kondo": "Ryosuke Kondo"
+	},
+	"Topics":[
+		"ときに脚本よりも楽曲よりも重要な役者"
+	],
+    "References":{
+		"おたよりください": "https://forms.gle/1VjUsrk8TB1fQqL86",
+		"俺はまだ本気出してないだけ - Wikipedia": "https://ja.wikipedia.org/wiki/%E4%BF%BA%E3%81%AF%E3%81%BE%E3%81%A0%E6%9C%AC%E6%B0%97%E5%87%BA%E3%81%97%E3%81%A6%E3%81%AA%E3%81%84%E3%81%A0%E3%81%91",
+		"スティーブ・マックイーン - Wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%86%E3%82%A3%E3%83%BC%E3%83%96%E3%83%BB%E3%83%9E%E3%83%83%E3%82%AF%E3%82%A4%E3%83%BC%E3%83%B3",
+		"マグニフィセント・セブン - Wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B0%E3%83%8B%E3%83%95%E3%82%A3%E3%82%BB%E3%83%B3%E3%83%88%E3%83%BB%E3%82%BB%E3%83%96%E3%83%B3"
+	},
+	"Memo":""
+}

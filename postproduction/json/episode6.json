@@ -1,0 +1,71 @@
+{
+	"Number": "6",
+	"Title": "自国開催だよラグビーW杯",
+	"RecDate":"2019-09-15",
+	"PubDate":"2019-09-19",
+	"Starr":{
+		"K": "Koichi Kinoshita",
+		"Gota": "Gota Shirato"
+	},
+	"Topics":[
+		"遠征移動",
+		"環境と戦略",
+		"ラグビーワールドカップ2019"
+	],
+	"Effects":[
+		{
+			
+		}
+	],
+	"Chapter":[
+		{
+			"Time": "00:00:00",
+			"Text": "Introduction"
+		},
+		{
+			"Time": "00:00:41",
+			"Text": "バタバタしょっぴ"
+		},
+		{
+			"Time": "00:05:47",
+			"Text": "ニュージーランドラグビー"
+		},
+		{
+			"Time": "00:10:40",
+			"Text": "「日本は恵まれてる」"
+		},
+		{
+			"Time": "00:19:24",
+			"Text": "日本とNZの戦術・戦略問題"
+		},
+		{
+			"Time": "00:31:07",
+			"Text": "ラグビーワールドカップ - WCとNZラグビー"
+		},
+		{
+			"Time": "00:34:53",
+			"Text": "脱線"
+		},
+		{
+			"Time": "00:37:38",
+			"Text": "ラグビーワールドカップ - 日本代表メンバー"
+		},
+		{
+			"Time": "00:57:19",
+			"Text": "ラグビーワールドカップ - 大会展望"
+		}
+
+	],
+	"References":{
+		"Bay of Plenty Rugby Union (@boprugby)": "https://www.instagram.com/boprugby/",
+		"ミャンマーの環境を目の当たりにして":"https://twitter.com/K_Shoppi/status/1172216551711207424",
+		"NZの環境を目の当たりにして":"https://twitter.com/K_Shoppi/status/1172216551711207424",
+		"ラグビーワールドカップ2019": "https://www.rugbyworldcup.com/",
+		"日本代表メンバー": "https://www.rugby-japan.jp/news/2019/09/18/50170",
+		"ジェイミー・ジョセフ":"https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%82%A4%E3%83%9F%E3%83%BC%E3%83%BB%E3%82%B8%E3%83%A7%E3%82%BB%E3%83%95",
+		"コーンロー": "https://twitter.com/hashtag/%E3%82%B3%E3%83%BC%E3%83%B3%E3%83%AD%E3%83%BC",
+		"サネ": "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%83%AD%E3%82%A4%E3%83%BB%E3%82%B5%E3%83%8D",
+		"マネ": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BB%E3%83%9E%E3%83%8D"
+	},
+	"Memo":""
+}

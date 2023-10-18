@@ -1,0 +1,22 @@
+{
+	"Number": "127",
+	"Genre": "con",
+	"GenreNumber": "n",
+	"Title": "差別は連鎖する",
+	"Starr":{
+		"Gota": "Gota Shirato",
+		"Yuda": "Yuda"
+	},
+	"Topics":[
+		"ドイツの動物園",
+		"EURO",
+		"オリンピック",
+		"デンベレ・グリーズマン"
+	],
+    "References":{
+		"おたよりください": "https://forms.gle/1VjUsrk8TB1fQqL86",
+		"那須ワールドモンキーパーク": "https://www.nasumonkey.com/",
+		"リカルド・クアレスマ": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%AB%E3%83%AB%E3%83%89%E3%83%BB%E3%82%AF%E3%82%A2%E3%83%AC%E3%82%B9%E3%83%9E"
+	},
+	"Memo":""
+}

@@ -1,0 +1,29 @@
+{
+	"Number": "73",
+	"Genre": "sports",
+	"GenreNumber": "n",
+	"Title": "主催者とするスポアナ振り返りとこれから",
+	"Starr":{
+		"Gota": "Gota",
+		"K": "Koichi Kinoshita",
+		"upura": "Shotaro Ishihara"
+	},
+	"Topics":[
+		""
+	],
+    "References":{
+		"Sports Analyst Meetup - connpass": "https://spoana.connpass.com/",
+		"第9回spoana": "https://spoana.connpass.com/event/190699/",
+		"upuraさん": "https://twitter.com/upura0",
+		"機械学習を用いた大相撲千秋楽の勝敗予想 / sumo prediction by Machine Learning": "https://speakerdeck.com/upura/sumo-prediction-by-machine-learning",
+		"JapanR": "https://japanr.connpass.com/",
+		"元フィギュアスケート選手とディープラーニングの華麗な出会い　「選手の役に立ちたい」社会人大学院生の挑戦 (1/5)":"https://www.itmedia.co.jp/news/articles/1904/12/news016.html",
+		"ONE TAP SPORTS": "https://one-tap.jp/",
+		"初心者向けスポーツ分析チュートリアル「目標達成に導くデータ分析」/ Sports Analysis Tutorial": "https://speakerdeck.com/upura/sports-analysis-tutorial",
+		"登山って、つらくない？　～標高とコースタイムから見るつらみ～": "https://speakerdeck.com/icebee16/deng-shan-tute-turakunai-biao-gao-tokosutaimukarajian-ruturami",
+		"e-sportsの波に乗りたいカードゲームの世界": "https://drive.google.com/file/d/1J3RHBDWsHI31028qB-fg_s8vWJDQYAIp/view",
+		"(おすすめ) 姿勢データを用いたダーツ命中予測": "https://speakerdeck.com/fuji_tako33/zi-shi-tetawoyong-itatatuming-zhong-yu-ce-7e0640fb-d0e8-47cb-91f6-c4ea6c905e94?slide=14",
+		"(おすすめ) カオスエンジニアリングで始めるチームビルディング": "https://docs.google.com/presentation/d/1uEJaAwTlwX1jDqoG8UfS-ELonFslc8MXDGNuoGHFCis/edit#slide=id.p"
+	},
+	"Memo":"#upuraさんのMC力"
+}

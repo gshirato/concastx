@@ -1,0 +1,20 @@
+{
+	"Number": "football-7",
+	"Genre": "con",
+	"GenreNumber": "n",
+	"Title": "欧州スーパーリーグ、どう思う？",
+	"Starr":{
+		"Gota": "Gota Shirato",
+		"Yuda": "Yuki Yuda"
+	},
+	"Topics":[
+		"欧州スーパーリーグ",
+		"サッカーとはなにか"
+	],
+    "References":{
+		"おたよりはこちらから": "https://forms.gle/1VjUsrk8TB1fQqL86",
+		"Europe’s top football clubs plan a Super League of their own": "https://www.economist.com/business/2021/04/19/europes-top-football-clubs-plan-a-super-league-of-their-own",
+		"マンCギュンドアン、CL新方式の再考を求める「誰も僕らのことを考えてくれないの？」": "https://www.soccer-king.jp/news/world/cl/20210423/1266217.html"
+	},
+	"Memo":""
+}

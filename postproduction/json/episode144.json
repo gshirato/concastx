@@ -1,0 +1,25 @@
+{
+	"Number": "144",
+	"Genre": "con",
+	"GenreNumber": "n",
+	"Title": "もしもピアノが弾けたなら",
+	"Starr":{
+		"Gota": "Gota Shirato",
+		"Yuda": "Yuki Yuda"
+	},
+	"Topics":[
+		"結婚式",
+		"式後の夫婦関係",
+		"映像制作",
+		"音楽練習中",
+		"ゲームで学習",
+		"音楽・美術・体育を「やらせない」ために"
+	],
+    "References":{
+		"Concastについて": "https://linktr.ee/concastx",
+		"ゼロイチ兄弟": "https://www.youtube.com/channel/UCXko07-wbZcrBJxhgK2AxLA",
+		"Yousician": "https://yousician.com/",
+		"How to Play Piano": "https://yousician.com/piano"
+	},
+	"Memo":""
+}

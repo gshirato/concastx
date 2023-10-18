@@ -1,0 +1,123 @@
+{
+	"Number": "11-1",
+	"Title": "ボールはどっちにあるんだ",
+	"RecDate":"2019-01-04",
+	"PubDate":"2020-01-06",
+	"Starr":{
+		"Gota": "Gota Shirato",
+		"Kondo": "Kondo Ryosuke",
+		"Yonehara": "Yuki Yonehara",
+		"Yuda": "Yuki Yuda"
+	},
+	"Topics":[
+		"浦和レッズ(2019)",
+		"日本代表(2019)",
+		"ラグビーW杯(2019)",
+		"業界用語",
+		"ポジショナルプレー"
+	],
+	"Effects":[
+		{
+			
+		}
+	],
+	"Chapter":[
+		{
+			"Time": "00:00:00",
+			"Text": "4人で"
+		},
+		{
+			"Time": "00:01:00",
+			"Text": "サッカーで振り返る2019年"
+		},
+		{
+			"Time": "00:05:37",
+			"Text": "2019年浦和レッズ"
+		},
+		{
+			"Time": "00:15:42",
+			"Text": "日本代表"
+		},
+		{
+			"Time": "00:32:10",
+			"Text": "1月 - ニュースで振り返る2019年"
+		},
+		{
+			"Time": "00:36:10",
+			"Text": "4月 - ノートルダム大聖堂火災"
+		},
+		{
+			"Time": "00:37:39",
+			"Text": "2016年9月 - みそ汁事件"
+		},
+		{
+			"Time": "00:53:12",
+			"Text": "2016年9月 - モンサンミッシェル事件"
+		},
+		{
+			"Time": "01:01:00",
+			"Text": "令和 - 免許自主返納"
+		},
+		{
+			"Time": "01:06:40",
+			"Text": "6月 - 「家に帰ったら蒼井優がいるってどう？」"
+		},
+		{
+			"Time": "01:08:15",
+			"Text": "7月 - 実名報道とジャーナリズム"
+		},
+		{
+			"Time": "01:16:49",
+			"Text": "8月 - あおり運転"
+		},
+		{
+			"Time": "01:21:40",
+			"Text": "ユベントスvsマン・シティ - 一番上手い選手は○○"
+		},
+		{
+			"Time": "01:26:24",
+			"Text": "9月 - ラグビーワールドカップ"
+		},
+		{
+			"Time": "01:28:50",
+			"Text": "VAR, TMO, GLT, 審判"
+		},
+		{
+			"Time": "01:36:30",
+			"Text": "10月 - 首里城火災"
+		},
+		{
+			"Time": "01:39:05",
+			"Text": "11月"
+		},
+		{
+			"Time": "01:42:41",
+			"Text": "業界用語"
+		},
+		{
+			"Time": "01:53:00",
+			"Text": "ポジショナルプレー"
+		}
+	],
+    "References":{
+		"Man United vs Arsenal (2019/10/01)": "https://www.google.com/search?rlz=1C5CHFA_enJP870JP870&sxsrf=ACYBGNRY2XYKal2kQI-7lqdreu6DMqZAVQ%3A1578231862778&ei=NugRXoCPL4mTr7wP7umf4AE&q=%E3%83%9E%E3%83%B3%E3%83%81%E3%82%A7%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%A6%E3%83%8A%E3%82%A4%E3%83%86%E3%83%83%E3%83%89+%E3%82%A2%E3%83%BC%E3%82%BB%E3%83%8A%E3%83%AB++2019&oq=%E3%83%9E%E3%83%B3%E3%83%81%E3%82%A7%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%A6%E3%83%8A%E3%82%A4%E3%83%86%E3%83%83%E3%83%89+%E3%82%A2%E3%83%BC%E3%82%BB%E3%83%8A%E3%83%AB++2019&gs_l=psy-ab.3..0i71l8.868.868..1200...0.2..0.0.0.......0....1..gws-wiz.yJLKBuD_6Ww&ved=0ahUKEwiAgrfsy-zmAhWJyYsBHe70BxwQ4dUDCAs&uact=5#sie=m;/g/11fls39rn6;2;/m/02_tc;dt;fp;1;;",
+		"アンドレ・アユー": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%89%E3%83%AC%E3%83%BB%E3%82%A2%E3%82%A4%E3%82%A7%E3%82%A6",
+		"バフェティンビ・ゴミス": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%95%E3%82%A7%E3%83%86%E3%82%A3%E3%83%B3%E3%83%93%E3%83%BB%E3%82%B4%E3%83%9F%E3%82%B9",
+		"アンドレ・カリージョ": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%89%E3%83%AC%E3%83%BB%E3%82%AB%E3%83%AA%E3%83%BC%E3%82%B8%E3%83%A7",
+		"ACLコレオ(2019)": "https://urawa-reds.com/photo/index/2019",
+		"クリスティアン・アツ": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%86%E3%82%A3%E3%82%A2%E3%83%B3%E3%83%BB%E3%82%A2%E3%83%84",
+		"さい川(盛岡)": "https://tabelog.com/iwate/A0301/A030101/3000190/",
+		"ポンピドゥー・センター": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%B3%E3%83%94%E3%83%89%E3%82%A5%E3%83%BC%E3%83%BB%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
+		"【フランス】ワカモノ専用！SNCFのカルトジュンヌを作ってみた": "https://kitokito.world/overseatrip/cartejeune/",
+		"フランスで大人気！住みたい町上位にあがるナントのおススメ観光スポット": "https://skyticket.jp/guide/100644",
+		"レンヌ発モン・サン・ミッシェル行きバスの最新時刻表": "https://tourismejaponais.com/mont-saint-michel/horaires_bus_msm/",
+		"家、ついて行ってイイですか？【今夜は特別編】予想外の結末…最後に衝撃告白SP": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/201905/23052_201905152100.html",
+		"京アニ放火殺人と実名報道　メディアはどう向き合ったか": "https://www.asahi.com/articles/ASM934GRLM93PTIL00R.html",
+		"#小泉進次郎構文": "https://twitter.com/hashtag/%E5%B0%8F%E6%B3%89%E9%80%B2%E6%AC%A1%E9%83%8E%E6%A7%8B%E6%96%87",
+		"For Once In My Life": "https://en.wikipedia.org/wiki/For_Once_in_My_Life",
+		"On This Day, Frank Lampard Had His Goal Ruled Out Against Germany In The World Cup": "https://www.sportbible.com/football/football-news-on-this-day-frank-lampard-had-his-goal-ruled-out-against-germany-20180627",
+		"ポジショナルプレーの特異性生む「枝葉」から「幹」へという着想 (フットボリスタ)": "https://www.footballista.jp/column/57857",
+		"2020年2月、フットボリスタが新しくなります": "https://www.footballista.jp/column/77315"
+	},
+	"Memo":""
+}

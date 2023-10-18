@@ -1,0 +1,106 @@
+{
+	"Number": "3",
+	"Title": "Hudl, Speed, Tactics",
+	"RecDate":"2019-09-04",
+	"PubDate":"2019-09-05",
+	"Starr":{
+		"TKB84": "Ryoichi Takabayashi",
+		"K": "Koichi Kinoshita",
+		"Gota": "Gota Shirato"
+	},
+	"Topics":[
+		"Hudl(ハドル)",
+		"ドイツのサッカーリーグ",
+		"ケルン体育大学",
+		"キャリア",
+		"GPSを用いた分析"
+	],
+	"Effects":[
+		"ノイズ除去",
+		"イコライザー(低高音除去)",
+		"カット(オフレコ)",
+		"カット(無音部分)",
+		"追加(Chao)"
+	],
+	"Chapter":[
+		{
+			"Time": "00:00:00",
+			"Text": "Introduction"
+		},
+		{
+			"Time": "00:04:42",
+			"Text": "キャリアの話"
+		},
+		{
+			"Time": "00:07:06",
+			"Text": "ドイツのサッカーリーグについて"
+		},
+		{
+			"Time": "00:12:50",
+			"Text": "語学"
+		},
+		{
+			"Time": "00:19:13",
+			"Text": "Hudlにジョインするまで"
+		},
+		{
+			"Time": "00:21:50",
+			"Text": "LinkedIn is Useful."
+		},
+		{
+			"Time": "00:27:18",
+			"Text": "#蹂躙"
+		},
+		{
+			"Time": "00:39:23",
+			"Text": "社員一人で働くということ"
+		},
+		{
+			"Time": "00:50:03",
+			"Text": "分析のアウトプット"
+		},
+		{
+			"Time": "00:56:34",
+			"Text": "前回エピソードの訂正"
+		},
+		{
+			"Time": "01:00:28",
+			"Text": "アナリストにとっての撮影とコーディング"
+		},
+		{
+			"Time": "01:03:03",
+			"Text": "GPSを使った分析"
+		},
+		{
+			"Time": "01:17:19",
+			"Text": "データ×コーチ"
+		},
+		{
+			"Time": "01:24:33",
+			"Text": "Closing"
+		}
+
+	],
+	"References":{
+		"Hudl": "https://hudl.com",
+		"フィットネスアポロ社": "http://www.toredie.com/",
+		"オーバーリーガ(ドイツ5部)": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%E3%83%AA%E3%83%BC%E3%82%AC",
+		"ケルン体育大学|ドイツ留学ラボ": "https://tobitate-german.com/uni_sportkoln",
+		"#蹂躙": "https://twitter.com/search?q=%23%E8%B9%82%E8%BA%99&src=typed_query&f=live",
+		"Sportscode": "https://www.hudl.com/products/sportscode",
+		"Wyscout": "https://wyscout.com/",
+		"Hudl Assist": "https://www.hudl.com/products/assist",
+		"Volley Metrics": "https://www.hudl.com/products/volleymetrics",
+		"Krossover": "https://www.krossover.com/",
+		"Opta": "https://www.optasports.com/",
+		"Perform Group": "https://www.performgroup.com/",
+		"Stats": "https://www.statsperform.com/",
+		"GDPR": "https://eugdpr.org/",
+		"STATSports": "https://statsports.com/",
+		"Catapult": "https://www.catapultsports.com/",
+		"VX スポーツ": "http://www.toredie.com/product/adss/detail_000354.html",
+		"Knows": "http://know-s.com/",
+		"タバコ愛好家サッリ": "https://www.goal.com/en/news/sarri-returns-to-take-juventus-training-as-pneumonia/1bbzjorch0xx41os78tm0zttmb",
+		"USジャンヌダルク・カルクフー":"https://ja.wikipedia.org/wiki/US%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%8C%E3%83%80%E3%83%AB%E3%82%AF%E3%83%BB%E3%82%AB%E3%83%AB%E3%82%AF%E3%83%95%E3%83%BC"
+	}
+}

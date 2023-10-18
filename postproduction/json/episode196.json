@@ -1,0 +1,24 @@
+{
+	"Number": "196",
+	"Genre": "Con",
+	"GenreNumber": "n",
+	"Title": "Nääはなにしにフィンランドへ？",
+	"Starr": {
+		"Gota": "Gota Shirato",
+		"Pierre": "Pierre"
+	},
+	"Topics": [
+		"白夜真っ只中のフィンランドから",
+		"フィンランド - オウル",
+		"フィンランド語",
+		"旅行"
+	],
+	"References": {
+		"Concast": "https://linktr.ee/concastx",
+		"オウル - フィンランド (Google Maps)": "https://goo.gl/maps/DgZWnWq1uePmHJv97",
+		"オウル - Wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%A6%E3%83%AB",
+		"VRグループ - Wikipedia": "https://ja.wikipedia.org/wiki/VR%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97",
+		"なぜデンマーク語で97は7 + [-½+5] x 20なのか？ | ホセのリングラ": "https://jose-lesson.com/jplin/2017/01/16/nonaginta-septem/"
+	},
+	"Memo": ""
+}

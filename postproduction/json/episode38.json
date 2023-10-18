@@ -1,0 +1,23 @@
+{
+	"Number": "38",
+	"Genre": "con",
+	"GenreNumber": "n",
+	"Title": "ぼくらのこれまでの旅の話~2019年版",
+	"Starr":{
+		"Gota": "Gota Shirato",
+		"Katashin": "Katashin",
+		"Kondo": "Kondo"
+	},
+	"Topics":[
+		"Katashinは23カ国、Gotaは19カ国から",
+		"TSUNAMI SUSHI HONDA",
+		"穴場のおすすめ",
+		"旅の一期一会",
+		"行きたい国",
+		"現代にバックパッカーはいるのか?"
+	],
+	"References":{
+		"a": "a"
+	},
+	"Memo":""
+}

@@ -1,0 +1,18 @@
+{
+	"Number": "50",
+	"Genre": "con",
+	"GenreNumber": "n",
+	"Title": "@WeWereInParis",
+	"Starr":{
+		"Gota": "Gota",
+		"Takumi": "Takumi",
+		"Yiying": "Yiying"
+	},
+	"Topics":[
+		
+	],
+    "References":{
+		"Emily in Paris": "https://www.netflix.com/title/81037371"
+	},
+	"Memo":""
+}

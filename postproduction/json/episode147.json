@@ -1,0 +1,30 @@
+{
+	"Number": "147",
+	"Genre": "con",
+	"GenreNumber": "n",
+	"Title": "フィットネス支部爆誕",
+	"Starr":{
+		"Gota": "Gota Shirato",
+		"Naoki": "Naoki",
+		"Yuda": "Yuki Yuda"
+	},
+	"Topics":[
+		"筋トレ",
+		"陸上部",
+		"ジム遍歴",
+		"ジムに継続的に通うには",
+		"筋トレのモチベーション",
+		"一日一部位vs多部位",
+		"おすすめYouTuber"
+	],
+    "References":{
+		"Concastについて": "https://linktr.ee/concastx",
+		"マルトデキストリン (MYPROTEIN)": "https://www.myprotein.jp/sports-nutrition/100-maltodextrin-carbs/10530114.html",
+		"WEB版マクロ栄養計算機": "https://promo.kadokawa.co.jp/macro-nutrient-calculator/",
+		"沼 (YouTube)": "https://www.youtube.com/watch?v=NJtgQEXAjNI",
+		"メトロンブログ (YouTube)": "https://www.youtube.com/c/%E3%83%A1%E3%83%88%E3%83%AD%E3%83%B3%E3%83%96%E3%83%AD%E3%82%B0",
+		"エドワード加藤 (YouTube)": "https://www.youtube.com/channel/UCQ19QLcoeK9radbqDVKQZCQ",
+		"パーカーフィットネス (YouTube)": "https://www.youtube.com/c/ParkerFitnessworkout"
+	},
+	"Memo":""
+}

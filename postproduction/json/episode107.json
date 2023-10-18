@@ -1,0 +1,28 @@
+{
+	"Number": "107",
+	"Genre": "sports",
+	"GenreNumber": "n",
+	"Title": "ゴシップライター志望?",
+	"Starr":{
+		"Gota": "Gota Shirato",
+		"Tokuno": "Tokuno"
+	},
+	"Topics":[
+		"あたかも",
+		"ゴシップ",
+		"ホワイト・ブラック",
+		"UFC",
+		"国と性格",
+		"AI"
+	],
+    "References":{
+		"おたよりコーナー": "https://forms.gle/1VjUsrk8TB1fQqL86",
+		"ハビブ・ヌルマゴメドフ": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%93%E3%83%96%E3%83%BB%E3%83%8C%E3%83%AB%E3%83%9E%E3%82%B4%E3%83%A1%E3%83%89%E3%83%95",
+		"ネイト・ディアス": "https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%A4%E3%83%88%E3%83%BB%E3%83%87%E3%82%A3%E3%82%A2%E3%82%B9",
+		"五味隆典": "https://ja.wikipedia.org/wiki/%E4%BA%94%E5%91%B3%E9%9A%86%E5%85%B8",
+		"BJ・ペン": "https://ja.wikipedia.org/wiki/BJ%E3%83%BB%E3%83%9A%E3%83%B3",
+		"「戦術的に見る」のが「偉い」とかって正直思ってました、というお話": "https://twitter.com/mitrico00/status/1370250621933088770/photo/3",
+		"安川電機": "https://www.yaskawa.co.jp/"
+	},
+	"Memo":""
+}

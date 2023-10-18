@@ -1,0 +1,30 @@
+{
+	"Number": "125",
+	"Genre": "sport",
+	"GenreNumber": "n",
+	"Title": "野球と戦術的ピリオダイゼーション",
+	"Starr":{
+		"Gota": "Gota Shirato",
+		"つゆぽん": "Tsuyupon",
+		"らいじん": "Raijin"
+	},
+	"Topics":[
+		"スポアナ開催直前ということで、野球のデータ分析に詳しいつゆぽんさんをゲストに迎えました!",
+		"セイバーメトリクスの先へ",
+		"戦術的ピリオダイゼーションと野球",
+		"スポアナ懇親会",
+		"イチローさん引退会見",
+		"データはスポーツをつまらなくするのか",
+		"#spoana"
+	],
+    "References":{
+		"おたよりください": "https://forms.gle/1VjUsrk8TB1fQqL86",
+		"つゆぽんさん(Twiiter)": "https://twitter.com/ponsa__ku/",
+		"誰ガ為ニ分析ヲスル (つゆぽんさんのブログ)": "https://tsuyupon.hatenablog.com/",
+		"戦術的ピリオダイゼーション理論とエンパワーメント": "http://shark.lib.kagawa-u.ac.jp/kuir/metadata/5722",
+		"スポアナ 第10回": "https://spoana.connpass.com/event/213076/",
+		"イチローは異例引退会見で何を語ったか（最終）「メジャーは頭を使わなくてもいい野球になりつつある」": "https://news.yahoo.co.jp/articles/7ad5602b2908525f40fa3c981b53ab6f44aac5ef",
+		"データ活用はスポーツをつまらなくするのか": "https://tsuyupon.hatenablog.com/entry/2019/04/21/011458"
+	},
+	"Memo":""
+}

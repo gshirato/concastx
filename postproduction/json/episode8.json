@@ -1,0 +1,64 @@
+{
+	"Number": "8",
+	"Title": "Success in NZ is upon ramen",
+	"RecDate":"2019-10-31",
+	"PubDate":"2019-11-01",
+	"Starr":{
+		"Gota": "Gota Shirato",
+        "K": "Koichi Kinoshita"
+	},
+	"Topics":[
+		"Mitre10 Cup優勝",
+        "NZ振り返り",
+        "手作りラーメン",
+        "アメリカ生活",
+        "フランス生活"
+	],
+	"Effects":[
+		{
+			
+		}
+	],
+	"Chapter":[
+		{
+			"Time": "00:00:00",
+			"Text": "チャンピオン"
+		},
+        {
+            "Time": "00:08:28",
+            "Text": "NZの振り返り"
+        },
+        {
+            "Time": "00:19:25",
+            "Text": "焼き肉・蕎麦・そうめん・寿司・サザエ・鍋・一瑳"
+        },
+        {
+            "Time": "00:29:30",
+            "Text": "手作りラーメン"
+        },
+        {
+            "Time": "00:36:30",
+            "Text": "Gota in America"
+        },
+        {
+            "Time": "00:48:26",
+            "Text": "ラ・マルセイエーズ"
+        }
+        
+	],
+	"References":{
+        "Mitre10 Cup":"http://www.mitre10cup.co.nz/",
+        "CHAMPIONSHIP FINAL: Bay of Plenty v Hawke’s Bay (2019)":"https://www.youtube.com/watch?v=_QX_xLIKHcI",
+        "内田啓介 (@black9kei)": "https://twitter.com/black9kei?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+        "村田さん(@TsuyoshiM1215)のツイート": "https://twitter.com/TsuyoshiM1215/status/1187646369118355456?s=20",
+        "鶏そば一瑳":"https://twitter.com/hashtag/%E9%B6%8F%E3%81%9D%E3%81%B0%E4%B8%80%E7%91%B3",
+        "Ramen-ya Nantes": "https://www.tripadvisor.com/Restaurant_Review-g187198-d12615015-Reviews-Ramen_ya-Nantes_Loire_Atlantique_Pays_de_la_Loire.html",
+        "オグデン": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%B0%E3%83%87%E3%83%B3_(%E3%83%A6%E3%82%BF%E5%B7%9E)",
+        "カ・マテ": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%BB%E3%83%9E%E3%83%86",
+        "ハカ": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%AB_(%E3%83%80%E3%83%B3%E3%82%B9)",
+        "黄色いベスト運動": "https://ja.wikipedia.org/wiki/%E9%BB%84%E8%89%B2%E3%81%84%E3%83%99%E3%82%B9%E3%83%88%E9%81%8B%E5%8B%95",
+        "串焼亭ねぎ": "http://negi-kushiyaki.com/",
+        "Sports ConのYouTubeチャンネル": "https://www.youtube.com/channel/UCRF4Uyi8Qd-Mqyri46t3yBg"
+	},
+	"Memo":""
+}

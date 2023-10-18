@@ -1,0 +1,24 @@
+{
+	"Number": "200",
+	"Genre": "Con",
+	"GenreNumber": "n",
+	"Title": "人生に影響を与えたことで打線を組んでみた",
+	"Starr": {
+		"Gota": "Gota Shirato",
+		"Kenta": "Kenta"
+	},
+	"Topics": [
+		"すべて必要で必然でベスト",
+		"プロサッカーコーチとの出会い",
+		"一人一役制",
+		"ドイツ生活のはじまり",
+		"怒涛忍耐転機経験"
+	],
+	"References": {
+		"畑 喜美夫 (選手主役のボトムアップ理論)": "https://hata-kimio.net/profile",
+		"カルバーシティ": "https://goo.gl/maps/3pqcq4GwZSgXEhh7A",
+		"ドイツサッカー協会公認ユースアカデミー：NLZ（Nachwuchleistungszentrum)": "https://note.com/wfc0621/n/nbc804563eb53",
+		"Concast": "https://linktr.ee/concastx"
+	},
+	"Memo": ""
+}

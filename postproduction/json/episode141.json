@@ -1,0 +1,42 @@
+{
+	"Number": "141",
+	"Genre": "con",
+	"GenreNumber": "n",
+	"Title": "世界一早いアカデミー賞",
+	"Starr":{
+		"Gota": "Gota Shirato",
+		"Kondo": "Ryosuke Kondo"
+	},
+	"Topics":[
+		"楽曲賞",
+		"1より2が面白い賞"
+	],
+    "References":{
+		"おたよりください": "https://forms.gle/1VjUsrk8TB1fQqL86",
+		"レザボア・ドッグス - Wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%B6%E3%83%9C%E3%82%A2%E3%83%BB%E3%83%89%E3%83%83%E3%82%B0%E3%82%B9",
+		"Little Green Bag - Wikipedia": "https://en.wikipedia.org/wiki/Little_Green_Bag",
+		"荒野の果てに - Wikipedia": "https://ja.wikipedia.org/wiki/%E8%8D%92%E9%87%8E%E3%81%AE%E6%9E%9C%E3%81%A6%E3%81%AB",
+		"エイリアン2 - Wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%A4%E3%83%AA%E3%82%A2%E3%83%B32",
+		"シガニー・ウィーバー - Wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%82%AC%E3%83%8B%E3%83%BC%E3%83%BB%E3%82%A6%E3%82%A3%E3%83%BC%E3%83%90%E3%83%BC",
+		"スイス・アーミー・マン - Wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%A4%E3%82%B9%E3%83%BB%E3%82%A2%E3%83%BC%E3%83%9F%E3%83%BC%E3%83%BB%E3%83%9E%E3%83%B3",
+		"雨の日は会えない、晴れた日は君を想う - Wikipedia": "https://ja.wikipedia.org/wiki/%E9%9B%A8%E3%81%AE%E6%97%A5%E3%81%AF%E4%BC%9A%E3%81%88%E3%81%AA%E3%81%84%E3%80%81%E6%99%B4%E3%82%8C%E3%81%9F%E6%97%A5%E3%81%AF%E5%90%9B%E3%82%92%E6%83%B3%E3%81%86",
+		"湯を沸かすほどの熱い愛 - Wikipedia": "https://ja.wikipedia.org/wiki/%E6%B9%AF%E3%82%92%E6%B2%B8%E3%81%8B%E3%81%99%E3%81%BB%E3%81%A9%E3%81%AE%E7%86%B1%E3%81%84%E6%84%9B",
+		"ラヂオの時間 - Wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%82%E3%82%AA%E3%81%AE%E6%99%82%E9%96%93",
+		"大空港2013 - Wikipedia": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E7%A9%BA%E6%B8%AF2013",
+		"ぼくは明日、昨日のきみとデートする - Wikipedia": "https://ja.wikipedia.org/wiki/%E3%81%BC%E3%81%8F%E3%81%AF%E6%98%8E%E6%97%A5%E3%80%81%E6%98%A8%E6%97%A5%E3%81%AE%E3%81%8D%E3%81%BF%E3%81%A8%E3%83%87%E3%83%BC%E3%83%88%E3%81%99%E3%82%8B",
+		"ライフ・オブ・デビッド・ゲイル - Wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%A4%E3%83%95%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%83%87%E3%83%93%E3%83%83%E3%83%89%E3%83%BB%E3%82%B2%E3%82%A4%E3%83%AB",
+		"情婦 (映画) - Wikipedia": "https://ja.wikipedia.org/wiki/%E6%83%85%E5%A9%A6_(%E6%98%A0%E7%94%BB)",
+		"ハーフ・オブ・イット: 面白いのはこれから - Wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%BC%E3%83%95%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%82%A4%E3%83%83%E3%83%88:_%E9%9D%A2%E7%99%BD%E3%81%84%E3%81%AE%E3%81%AF%E3%81%93%E3%82%8C%E3%81%8B%E3%82%89",
+		"浅草キッド (小説) - Wikipedia": "https://ja.wikipedia.org/wiki/%E6%B5%85%E8%8D%89%E3%82%AD%E3%83%83%E3%83%89_(%E5%B0%8F%E8%AA%AC)#%E6%98%A0%E7%94%BB",
+		"俺はまだ本気出してないだけ - Wikipedia": "https://ja.wikipedia.org/wiki/%E4%BF%BA%E3%81%AF%E3%81%BE%E3%81%A0%E6%9C%AC%E6%B0%97%E5%87%BA%E3%81%97%E3%81%A6%E3%81%AA%E3%81%84%E3%81%A0%E3%81%91",
+		"スティーブ・マックイーン - Wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%86%E3%82%A3%E3%83%BC%E3%83%96%E3%83%BB%E3%83%9E%E3%83%83%E3%82%AF%E3%82%A4%E3%83%BC%E3%83%B3",
+		"マグニフィセント・セブン - Wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B0%E3%83%8B%E3%83%95%E3%82%A3%E3%82%BB%E3%83%B3%E3%83%88%E3%83%BB%E3%82%BB%E3%83%96%E3%83%B3",
+		"ザカリーに捧ぐ - Wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B6%E3%82%AB%E3%83%AA%E3%83%BC%E3%81%AB%E6%8D%A7%E3%81%90",
+		"天使にラブ・ソングを… - Wikipedia": "https://ja.wikipedia.org/wiki/%E5%A4%A9%E4%BD%BF%E3%81%AB%E3%83%A9%E3%83%96%E3%83%BB%E3%82%BD%E3%83%B3%E3%82%B0%E3%82%92%E2%80%A6",
+		"テキサスの五人の仲間 - Wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%AD%E3%82%B5%E3%82%B9%E3%81%AE%E4%BA%94%E4%BA%BA%E3%81%AE%E4%BB%B2%E9%96%93",
+		"十三人の刺客 (2010年の映画) - Wikipedia": "https://ja.wikipedia.org/wiki/%E5%8D%81%E4%B8%89%E4%BA%BA%E3%81%AE%E5%88%BA%E5%AE%A2_(2010%E5%B9%B4%E3%81%AE%E6%98%A0%E7%94%BB)",
+		"サイレンス (2016年の映画) - Wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%A4%E3%83%AC%E3%83%B3%E3%82%B9_(2016%E5%B9%B4%E3%81%AE%E6%98%A0%E7%94%BB)",
+		"トライアングル - 映画情報・レビュー・評価・あらすじ・動画配信 | Filmarks映画": "https://filmarks.com/movies/15902?mark_id=34656493"
+	},
+	"Memo":"修学旅行の夜"
+}

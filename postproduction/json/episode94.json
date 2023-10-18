@@ -1,0 +1,28 @@
+{
+	"Number": "94",
+	"Genre": "con",
+	"GenreNumber": "n",
+	"Title": "Senseiとの距離は空いたまま(HWN-2)",
+	"Starr":{
+		"Gota": "Gota Shirato",
+		"Kondo": "Ryosuke Kondo"
+	},
+	"Topics":[
+		"芦田愛菜チャレンジ",
+		"絵画95億円",
+		"ワンピース名言",
+		"オピオイド訴訟和解",
+		"森さん発言",
+		"ラーメン",
+		"Amazon倉庫労働"
+	],
+    "References":{
+		"おたよりコーナー": "https://forms.gle/1VjUsrk8TB1fQqL86",
+		"ボッティチェリの肖像画、96億円で落札　同画家作品で最高額 (Reuters)": "https://jp.reuters.com/article/art-auction-botticelli-idJPKBN29Y0DG",
+		"クッキングパパ1000話を読んで擬音を数えてみた (note)": "https://note.com/tkq/n/n5ce10a821701",
+		"【全容判明】東京五輪・パラリンピック組織委　森喜朗会長の発言 (TBS NEWS)": "https://news.tbs.co.jp/newseye/tbs_newseye4190703.html",
+		"マッキンゼー約630億円の和解金 米 鎮痛剤「オピオイド」訴訟 (NHK)": "https://www3.nhk.or.jp/news/html/20210205/k10012850781000.html",
+		"米Amazon、一部の倉庫労働者に10.5時間の深夜シフト勤務を強制の報 (engadget)": "https://japanese.engadget.com/amazon-overnight-shifts-warehouse-megacycle-080011874.html"
+	},
+	"Memo":""
+}

@@ -1,0 +1,18 @@
+{
+	"Number": "83-2",
+	"Genre": "con",
+	"GenreNumber": "n",
+	"Title": "映画の話",
+	"Starr":{
+		"Gota": "Gota",
+		"Suguru": "Suguru"
+	},
+	"Topics":[
+		"ハリー・ポッター",
+		"スポーツ映画",
+		"など"
+	],
+    "References":{
+	},
+	"Memo":""
+}

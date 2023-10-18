@@ -1,0 +1,29 @@
+{
+	"Number": "118",
+	"Genre": "con",
+	"GenreNumber": "n",
+	"Title": "ボクシングというスポーツ",
+	"Starr":{
+		"Gota": "Gota Shirato",
+		"Tokuno": "Tokuno"
+	},
+	"Topics":[
+		"ボクシング",
+		"渡嘉敷勝男&竹原慎二&畑山隆則",
+		"団体・階級",
+		"ガッツ石松世代",
+		"ロジカルな選手",
+		"ファイトマネー",
+		"プロアマチュア論"
+	],
+    "References":{
+		"おたより待ってます": "https://forms.gle/1VjUsrk8TB1fQqL86",
+		"渡嘉敷勝男&竹原慎二&畑山隆則 公式チャンネル": "https://www.youtube.com/channel/UCKKK9zISB9DSgHyEKCoCAAQ",
+		"川嶋勝重": "https://ja.wikipedia.org/wiki/%E5%B7%9D%E5%B6%8B%E5%8B%9D%E9%87%8D",
+		"アレクサンデル・ムニョス": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AC%E3%82%AF%E3%82%B5%E3%83%B3%E3%83%87%E3%83%AB%E3%83%BB%E3%83%A0%E3%83%8B%E3%83%A7%E3%82%B9",
+		"井上尚弥": "https://ja.wikipedia.org/wiki/%E4%BA%95%E4%B8%8A%E5%B0%9A%E5%BC%A5",
+		"丸田陽七太": "https://ja.wikipedia.org/wiki/%E4%B8%B8%E7%94%B0%E9%99%BD%E4%B8%83%E5%A4%AA",
+		"中谷潤人": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E8%B0%B7%E6%BD%A4%E4%BA%BA"
+	},
+	"Memo":""
+}

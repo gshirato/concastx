@@ -1,0 +1,31 @@
+{
+	"Number": "16",
+	"Genre": "con",
+	"GenreNumber": "n",
+	"Title": "For once in my life",
+	"RecDate":"2020-03-13",
+	"PubDate":"2020-03-17",
+	"Starr":{
+		"Gota": "Gota Shirato",
+		"Kondo": "Ryosuke Kondo",
+		"Uesho": "Sho Uemori"
+	},
+	"Topics":[
+		"NY旅行"
+	],
+	"Effects":[
+		{
+			
+		}
+	],
+	"Chapter":[
+	
+	],
+    "References":{
+		"ローズマリー":"https://www.rosemarysnyc.com/",
+		"アトランティックシティの床屋":"https://goo.gl/maps/fj7CM8rKwnFdZSQx9",
+		"【RIO目の前】ラスベガスのシェアハウスを移転しました【週220ドル】": "https://thats-poker.net/?p=5122"
+	},
+	"Memo":""
+}
+

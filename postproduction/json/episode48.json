@@ -1,0 +1,20 @@
+{
+	"Number": "48",
+	"Genre": "con",
+	"GenreNumber": "n",
+	"Title": "お悩み相談第2弾!",
+	"Starr":{
+		"Gota": "Gota",
+		"Uesho": "Sho Uemori"
+	},
+	"Topics":[
+		
+	],
+    "References":{
+		"Saitama City Style": "https://saitamacity.xyz/",
+		"Oura ring": "https://amzn.to/3dcDWxl",
+		"@_RedEyeofficial": "https://twitter.com/_redeyeofficial",
+		"ポスト・マローン": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%82%B9%E3%83%88%E3%83%BB%E3%83%9E%E3%83%AD%E3%83%BC%E3%83%B3"
+	},
+	"Memo":""
+}

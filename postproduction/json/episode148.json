@@ -1,0 +1,27 @@
+{
+	"Number": "148",
+	"Genre": "con",
+	"GenreNumber": "n",
+	"Title": "半年の航海を終えて",
+	"Starr":{
+		"Gota": "Gota Shirato",
+		"Suguru": "Suguru",
+		"Uesho": "Sho Uemori"
+	},
+	"Topics":[
+		"エネルギー運びます",
+		"半年かけたヨーロッパ・アジア往復",
+		"「聴く力」のすぐる",
+		"MarineTraffic"
+	],
+    "References":{
+		"Concastについて": "https://linktr.ee/concastx",
+		"MarineTraffic": "https://www.marinetraffic.com/",
+		"アルヘシラス - Wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%83%98%E3%82%B7%E3%83%A9%E3%82%B9",
+		"石油 - Wikipedia": "https://ja.wikipedia.org/wiki/%E7%9F%B3%E6%B2%B9",
+		"石油・天然ガスとは (石油資源開発株式会社)": "https://www.japex.co.jp/business/oilgas/origin/",
+		"排出物質：窒素酸化物（ちっそさんかぶつ）": "https://www.erca.go.jp/yobou/taiki/kids/aozora/haisyutu_04.html",
+		"排出物質：硫黄酸化物（いおうさんかぶつ）": "https://www.erca.go.jp/yobou/taiki/kids/aozora/haisyutu_05.html"
+	},
+	"Memo":""
+}

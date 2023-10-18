@@ -1,0 +1,72 @@
+{
+	"Number": "7",
+	"Title": "Talking to the moon",
+	"RecDate":"2019-10-09",
+	"PubDate":"2019-10-10",
+	"Starr":{
+		"Gota": "Gota Shirato"
+	},
+	"Topics":[
+		"ひとりごと",
+		"スマートウォッチ",
+		"ハリルホジッチ辞任",
+		"ベジタリアン",
+		"富士山登頂"
+	],
+	"Effects":[
+		{
+			
+		}
+	],
+	"Chapter":[
+		{
+			"Time": "00:00:00",
+			"Text": "Introduction"
+		},
+		{
+			"Time": "00:02:00",
+			"Text": "Facebookメッセンジャーのリアクション"
+		},
+		{
+			"Time": "00:05:31",
+			"Text": "Fitbit"
+		},
+		{
+			"Time": "00:11:30",
+			"Text": "ポモドーロテクニック"
+		},
+		{
+			"Time": "00:16:47",
+			"Text": "ハリルホジッチ辞任"
+		},
+		{
+			"Time": "00:27:46",
+			"Text": "フランスのサッカー観戦事情"
+		},
+		{
+			"Time": "00:36:28",
+			"Text": "ベジタリアン生活"
+		},
+		{
+			"Time": "00:45:29",
+			"Text": "富士山登頂"
+		},
+		{
+			"Time": "01:12:56",
+			"Text": "エンディング"
+		}
+	],
+	"References":{
+		"FC Nantes": "https://ja.wikipedia.org/wiki/FC%E3%83%8A%E3%83%B3%E3%83%88",
+		"FCN監督：ルネ・ジラール": "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%8D%E3%83%BB%E3%82%B8%E3%83%A9%E3%83%BC%E3%83%AB_(%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC%E9%81%B8%E6%89%8B)",
+		"FCN監督：セルジオ・コンセイソン": "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%AB%E3%82%B8%E3%82%AA%E3%83%BB%E3%82%B3%E3%83%B3%E3%82%BB%E3%82%A4%E3%82%BD%E3%83%B3",
+		"FCN監督：クラウディオ・ラニエリ": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%87%E3%82%A3%E3%82%AA%E3%83%BB%E3%83%A9%E3%83%8B%E3%82%A8%E3%83%AA",
+		"FCN監督：ミゲル・カルドーソ": "https://en.wikipedia.org/wiki/Miguel_Cardoso_(football_manager)",
+		"FCN監督：ヴァヒド・ハリルホジッチ": "https://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A1%E3%83%92%E3%83%89%E3%83%BB%E3%83%8F%E3%83%AA%E3%83%AB%E3%83%9B%E3%82%B8%E3%83%83%E3%83%81",
+		"FCN監督：クリスティアン・グルキュフ": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%86%E3%82%A3%E3%82%A2%E3%83%B3%E3%83%BB%E3%82%B0%E3%83%AB%E3%82%AD%E3%83%A5%E3%83%95",
+		"日本野菜列島(@veggie_jp)": "https://www.instagram.com/veggie_jp/",
+		"レッサム・フィリリ(@resham_firiri_jp)":"https://www.instagram.com/resham_firiri_jp/",
+		"Talking to the moon (Bruno Mars)": "https://en.wikipedia.org/wiki/Talking_to_the_Moon"
+	},
+	"Memo":""
+}

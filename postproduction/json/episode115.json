@@ -1,0 +1,29 @@
+{
+	"Number": "115",
+	"Genre": "con",
+	"GenreNumber": "n",
+	"Title": "キャンプの魔力",
+	"Starr":{
+		"Gota": "Gota Shirato",
+		"Naoki": "Naoki"
+	},
+	"Topics":[
+		"キャンパーの哲学",
+		"大人の遠足",
+		"最初のキャンプ",
+		"夏キャンにおすすめの場所",
+		"キャンプ後のスシロー",
+		"筋トレ・食事",
+		"五時チャレの祖と"
+	],
+    "References":{
+		"おたよりはこちらから": "https://forms.gle/1VjUsrk8TB1fQqL86",
+		"@tomotech54": "https://instagram.com/tomotech54",
+		"小梨平": "http://www.nihonalpskankou.com/",
+		"浩庵キャンプ場": "https://kouan-motosuko.com/",
+		"ふもとっぱら": "https://fumotoppara.net/",
+		"ゆるキャン": "https://yurucamp.jp/"
+
+	},
+	"Memo":""
+}

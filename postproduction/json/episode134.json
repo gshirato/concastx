@@ -1,0 +1,25 @@
+{
+	"Number": "134",
+	"Genre": "con",
+	"GenreNumber": "n",
+	"Title": "ゆりかごから墓場まで",
+	"Starr":{
+		"Gota": "Gota Shirato",
+		"Uesho": "Sho Uemori",
+		"Suguru": "Suguru"
+	},
+	"Topics":[
+		"La Pensée (fr)",
+		"オヤジラン",
+		"飾り窓",
+		"船のお仕事",
+		"気遣いの文化",
+		"心の余裕",
+		"個別論で正当化"
+	],
+    "References":{
+		"おたよりください": "https://forms.gle/1VjUsrk8TB1fQqL86",
+		"": ""
+	},
+	"Memo":""
+}

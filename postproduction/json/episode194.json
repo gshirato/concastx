@@ -1,0 +1,21 @@
+{
+	"Number": "194",
+	"Genre": "Con",
+	"GenreNumber": "n",
+	"Title": "とある社員の人事負債",
+	"Starr": {
+		"Gota": "Gota Shirato",
+		"Oga": "Oga"
+	},
+	"Topics": [
+		"採用シーズンの6月",
+		"採用とマネジメント",
+		"SPI",
+		"人事負債？"
+	],
+	"References": {
+		"SPIの性格検査とは？": "https://www.recruit-ms.co.jp/freshers/spi-002.html",
+		"Concast": "https://linktr.ee/concastx"
+	},
+	"Memo": ""
+}

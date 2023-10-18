@@ -1,0 +1,20 @@
+{
+    "Number": "football-20230708-2",
+    "Genre": "con",
+    "GenreNumber": "n",
+    "Title": "ドイツサッカーの観客動員がすごい",
+    "Starr": {
+        "Gota": "Gota Shirato",
+        "Yuda": "Yuda"
+    },
+    "Topics": [
+        "観客数クイズ",
+        "ブンデスリーガ１部",
+        "ブンデスリーガ２部",
+        "ブンデスリーガ３部"
+    ],
+    "References": {
+        "Bundesliga match attendances by club 2023 | Statista": "https://www.statista.com/statistics/282985/clubs-of-german-football-bundesliga-by-average-attendance/#:~:text=Average%20match%20attendance%20in%20the%20Bundesliga%202022%2D2023%2C%20by%20club&text=Borussia%20Dortmund%20had%20the%20highest,largest%20stadium%20in%20the%20Bundesliga."
+    },
+    "Memo": ""
+}

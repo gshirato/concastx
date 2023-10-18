@@ -1,0 +1,26 @@
+{
+	"Number": "110",
+	"Genre": "con",
+	"GenreNumber": "n",
+	"Title": "いまからガーナ行くけど質問ある？",
+	"Starr":{
+		"Gota": "Gota Shirato",
+		"Kento": "Kento Sekine"
+	},
+	"Topics":[
+		"カシューフルーツを求めて",
+		"Antcicadaと離れても",
+		"行動して道を開く",
+		"なかまをふやす",
+		"選択肢のジレンマ",
+		"強いのは〇〇人間"
+	],
+    "References":{
+		"おたよりはこちらから": "https://forms.gle/1VjUsrk8TB1fQqL86",
+		"Kentoのインスタはこちら": "https://www.instagram.com/kentomushi18/",
+		"カシューナッツ": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%8A%E3%83%83%E3%83%84",
+		"ガンビア": "https://ja.wikipedia.org/wiki/%E3%82%AC%E3%83%B3%E3%83%93%E3%82%A2",
+		"南米市場 キョウダイマーケット": "https://kyodaimarket.com/?tid=2&mode=f90"
+	},
+	"Memo":""
+}

@@ -1,0 +1,21 @@
+{
+	"Number": "141-3",
+	"Genre": "con",
+	"GenreNumber": "n",
+	"Title": "世界一早いアカデミー賞 - 独自部門③",
+	"Starr":{
+		"Gota": "Gota Shirato",
+		"Kondo": "Ryosuke Kondo"
+	},
+	"Topics":[
+		"癖時間軸賞",
+		"どんでん返し賞"
+	],
+    "References":{
+		"おたよりください": "https://forms.gle/1VjUsrk8TB1fQqL86",
+		"ぼくは明日、昨日のきみとデートする - Wikipedia": "https://ja.wikipedia.org/wiki/%E3%81%BC%E3%81%8F%E3%81%AF%E6%98%8E%E6%97%A5%E3%80%81%E6%98%A8%E6%97%A5%E3%81%AE%E3%81%8D%E3%81%BF%E3%81%A8%E3%83%87%E3%83%BC%E3%83%88%E3%81%99%E3%82%8B",
+		"ライフ・オブ・デビッド・ゲイル - Wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%A4%E3%83%95%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%83%87%E3%83%93%E3%83%83%E3%83%89%E3%83%BB%E3%82%B2%E3%82%A4%E3%83%AB",
+		"情婦 (映画) - Wikipedia": "https://ja.wikipedia.org/wiki/%E6%83%85%E5%A9%A6_(%E6%98%A0%E7%94%BB)"
+	},
+	"Memo":"修学旅行の夜"
+}

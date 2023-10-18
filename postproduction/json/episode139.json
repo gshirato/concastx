@@ -1,0 +1,24 @@
+{
+	"Number": "139",
+	"Genre": "con",
+	"GenreNumber": "n",
+	"Title": "プレイヤーになる",
+	"Starr":{
+		"Gota": "Gota Shirato",
+		"Gunyama": "Gunchan"
+	},
+	"Topics":[
+		"人材業界",
+		"修学旅行の夜",
+		"挫折・親密性",
+		"実はサッカー部を",
+		"ボルダリング",
+		"Pythonでミニtotoを当てたい"
+	],
+    "References":{
+		"おたよりください": "https://forms.gle/1VjUsrk8TB1fQqL86",
+		"ストレングスファインダー®とは | ストレングス・ラボ ／ ストレングスファインダーを使った企業研修及び個人講座、人材育成": "https://strengths-labo.com/strengthsfinder/",
+		"YOUTRUST | 日本のキャリアSNS": "https://lp.youtrust.jp/"
+	},
+	"Memo":"修学旅行の夜"
+}

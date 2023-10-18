@@ -1,0 +1,20 @@
+{
+	"Number": "89",
+	"Genre": "con",
+	"GenreNumber": "n",
+	"Title": "Clubhouse, this is Social Network",
+	"Starr":{
+		"Gota": "Gota Shirato",
+		"Katashin": "Shin Katayama"
+	},
+	"Topics":[
+		"Clubhouse",
+		"おたよりコーナー",
+		"リングフィットアドベンチャー"
+	],
+    "References":{
+		"おたよりコーナー": "https://forms.gle/1VjUsrk8TB1fQqL86",
+		"XGIMI": "https://www.xgimi.com/en/home"
+	},
+	"Memo":""
+}

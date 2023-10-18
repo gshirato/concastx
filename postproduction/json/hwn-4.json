@@ -1,0 +1,27 @@
+{
+	"Number": "hwn-4",
+	"Genre": "con",
+	"GenreNumber": "n",
+	"Title": "Hot Week News #4",
+	"Starr":{
+		"Gota": "Gota Shirato",
+		"Kondo": "Ryosuke Kondo"
+	},
+	"Topics":[
+		"HWNが一生言えない",
+		"聖火リレー",
+		"ブラインドサッカー・菊島宙",
+		"インテル新ロゴ",
+		"ピッチに虹をかける選手"
+	],
+    "References":{
+		"おたよりはこちらから": "https://forms.gle/1VjUsrk8TB1fQqL86",
+		"菊島宙選手": "https://www.youtube.com/watch?v=mIb3OG_HCXo",
+		"インテルがクラブの新ロゴを発表！「FC」や金色が消え、モダンなデザインに": "https://www.soccer-king.jp/news/world/ita/20210330/1242658.html",
+		"マルセイユのロゴ": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF%E3%83%BB%E3%83%9E%E3%83%AB%E3%82%BB%E3%82%A4%E3%83%A6#/media/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Olympique_Marseille_logo.svg",
+		"アルバロ・レコバ": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%83%90%E3%83%AD%E3%83%BB%E3%83%AC%E3%82%B3%E3%83%90",
+		"FCナント": "https://www.fcnantes.com/",
+		"クラブロゴデザインの刷新について (浦和レッズ)": "https://www.urawa-reds.co.jp/clubinfo/%E3%82%AF%E3%83%A9%E3%83%96%E3%83%AD%E3%82%B4%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%AE%E5%88%B7%E6%96%B0%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/"
+	},
+	"Memo":""
+}

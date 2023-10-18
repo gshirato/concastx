@@ -1,0 +1,26 @@
+{
+	"Number": "football-9",
+	"Genre": "con",
+	"GenreNumber": "n",
+	"Title": "オフサイドの歴史 FB支部#9",
+	"Starr":{
+		"Gota": "Gota Shirato",
+		"Yuda": "Yuki Yuda"
+	},
+	"Topics":[
+		"コーヒー",
+		"オフサイドルール変更",
+		"ブラインドサッカー日本代表準優勝",
+		"U21 EURO",
+		"EURO2021"
+	],
+    "References":{
+		"おたよりはこちらから": "https://forms.gle/1VjUsrk8TB1fQqL86",
+		"サッカー歴史物語 ~今さら聞けない25のサッカー史": "https://www.amazon.co.jp/%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC%E6%AD%B4%E5%8F%B2%E7%89%A9%E8%AA%9E-%E4%BB%8A%E3%81%95%E3%82%89%E8%81%9E%E3%81%91%E3%81%AA%E3%81%8425%E3%81%AE%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC%E5%8F%B2-%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC%E5%B0%8F%E5%83%A7%E6%96%B0%E6%9B%B8-%E5%BE%8C%E8%97%A4-%E5%81%A5%E7%94%9F/dp/4861919797",
+		"オフサイドの謎": "http://blog.livedoor.jp/sgjk22/archives/37607853.html",
+		"オフサイドの謎（その2）　昭和8年の競技規則": "http://blog.livedoor.jp/sgjk22/archives/37756052.html",
+		"オフサイドの謎（その3）　1988年～2005年の変遷": "http://blog.livedoor.jp/sgjk22/archives/38261905.html",
+		"オフサイドの謎（その4）　まとめ": "http://blog.livedoor.jp/sgjk22/archives/cat_983079.html?p=12"
+	},
+	"Memo":""
+}

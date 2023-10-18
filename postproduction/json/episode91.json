@@ -1,0 +1,32 @@
+{
+	"Number": "91",
+	"Genre": "con",
+	"GenreNumber": "n",
+	"Title": "スーパーボウル直前！アメフトを教えてもらった",
+	"Starr":{
+		"Gota": "Gota Shirato",
+		"Uesho": "Sho Uemori",
+		"Thima": "Ryo Oshima"
+	},
+	"Topics":[
+		"アメフトとラグビーの違い",
+		"ルール説明",
+		"秩序と混沌",
+		"スーパーボウル展望",
+		"ハーフタイムショー",
+		"ドラフト",
+		"新旧GOAT",
+		"TE対決"
+	],
+    "References":{
+		"おたよりコーナー": "https://forms.gle/1VjUsrk8TB1fQqL86",
+		"Greatest Of All Time (G.O.A.T.)": "https://en.wikipedia.org/wiki/Greatest_of_All_Time",
+		"トム・ブレイディ (GOAT)": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%A0%E3%83%BB%E3%83%96%E3%83%AC%E3%82%A4%E3%83%87%E3%82%A3",
+		"パトリック・マホームズ (baby GOAT)": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%88%E3%83%AA%E3%83%83%E3%82%AF%E3%83%BB%E3%83%9E%E3%83%9B%E3%83%BC%E3%83%A0%E3%82%BA",
+		"ラッセル・ウィルソン (シーホークス)": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%83%E3%82%BB%E3%83%AB%E3%83%BB%E3%82%A6%E3%82%A3%E3%83%AB%E3%82%BD%E3%83%B3",
+		"リチャード・シャーマン (シーホークス)": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%81%E3%83%A3%E3%83%BC%E3%83%89%E3%83%BB%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%9E%E3%83%B3_(%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%83%B3%E3%83%95%E3%83%83%E3%83%88%E3%83%9C%E3%83%BC%E3%83%AB)",
+		"ロブ・グロンコウスキー (バッカニアーズ)": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%96%E3%83%BB%E3%82%B0%E3%83%AD%E3%83%B3%E3%82%B3%E3%82%A6%E3%82%B9%E3%82%AD%E3%83%BC",
+		"トラヴィスケルシー (チーフス)": "https://www.nfl-32.com/entry/2018/06/28/032441"
+	},
+	"Memo":""
+}

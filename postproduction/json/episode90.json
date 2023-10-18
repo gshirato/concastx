@@ -1,0 +1,19 @@
+{
+	"Number": "90",
+	"Genre": "con",
+	"GenreNumber": "n",
+	"Title": "令和のダイエットスター",
+	"Starr":{
+		"Gota": "Gota Shirato",
+		"Kondo": "Ryosuke Kondo"
+	},
+	"Topics":[
+		"Concastに物申す",
+		"ダイエットの捉え方",
+		"魔法の言葉「ちょっと痩せたね」"
+	],
+    "References":{
+		"おたよりコーナー": "https://forms.gle/1VjUsrk8TB1fQqL86"
+	},
+	"Memo":""
+}

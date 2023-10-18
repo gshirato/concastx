@@ -1,0 +1,25 @@
+{
+	"Number": "98",
+	"Genre": "con",
+	"GenreNumber": "n",
+	"Title": "今年1番驚いたこと(Hot Week News-3)",
+	"Starr":{
+		"Gota": "Gota Shirato",
+		"Kondo": "Ryosuke Kondo"
+	},
+	"Topics":[
+		"※最後の20分、Kondoの声が消えています。どんな会話だったか想像しながらお楽しみください",
+		"トリックアート",
+		"児童置き去り(元記事削除)",
+		"子育て",
+		"五輪の申し子",
+		"ビットコイン",
+		"アスガルディア"
+	],
+    "References":{
+		"おたよりコーナー": "https://forms.gle/1VjUsrk8TB1fQqL86",
+		"姉妹放置死「ひとごとではない」(記事削除)": "https://news.livedoor.com/lite/article_detail/19717550/",
+		"アスガルディア": "https://asgardia.space/en/"
+	},
+	"Memo":""
+}

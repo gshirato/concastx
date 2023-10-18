@@ -1,0 +1,23 @@
+{
+	"Number": "124",
+	"Genre": "sport",
+	"GenreNumber": "n",
+	"Title": "EURO2020開幕!",
+	"Starr":{
+		"Gota": "Gota Shirato",
+		"Alex": "Alex"
+	},
+	"Topics":[
+		"EURO2020",
+		"グループF",
+		"フランス代表",
+		"ウーゴ・ロリス"
+	],
+    "References":{
+		"おたよりください": "https://forms.gle/1VjUsrk8TB1fQqL86",
+		"ウーゴ・ロリス": "https://en.wikipedia.org/wiki/Hugo_Lloris",
+		"ベン・イェデル": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A3%E3%82%B5%E3%83%A0%E3%83%BB%E3%83%99%E3%83%B3%E3%83%BB%E3%82%A4%E3%82%A7%E3%83%87%E3%83%AB",
+		"クレールフォンテーヌ": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AC%E3%83%BC%E3%83%AB%E3%83%95%E3%82%A9%E3%83%B3%E3%83%86%E3%83%BC%E3%83%8C%E5%9B%BD%E7%AB%8B%E7%A0%94%E7%A9%B6%E6%89%80"
+	},
+	"Memo":""
+}

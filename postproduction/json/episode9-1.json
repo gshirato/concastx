@@ -1,0 +1,70 @@
+{
+	"Number": "9-1",
+	"Title": "ベジタリアンの誕生日",
+	"RecDate":"2019-11-02",
+	"PubDate":"2019-11-17",
+	"Starr":{
+		"Gota": "Gota Shirato",
+        "Takumi": ""
+	},
+	"Topics":[
+        "アメリカの大学",
+        "LDS(モルモン教)",
+        "ベジタリアン生活",
+        "インドカレー",
+        "Tinderの在り方"
+	],
+	"Effects":[
+		{
+			
+		}
+	],
+	"Chapter":[
+		{
+			"Time": "00:00:00",
+                        "Text": "アメリカの大学"
+                },
+                {
+                        "Time": "00:22:00",
+                        "Text": "Dia de los muertos(死者の日)"
+                },
+                {
+                        "Time": "00:33:10",
+                        "Text": "The Church of Jesus Christ of Latter-day Saints"
+                },
+                {
+                        "Time": "00:47:50",
+                        "Text": "NBA - ユダジャズ"
+                },
+                {
+                        "Time": "00:57:15",
+                        "Text": "ベジタリアン生活"
+                },
+                {
+                        "Time": "01:12:50",
+                        "Text": "インドカレー"
+                },
+                {
+                        "Time": "01:27:00",
+                        "Text": "Tinder"
+                }
+
+	],
+    "References":{
+        "Weber State University": "https://www.weber.edu/",
+        "イエローストーン国立公園": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%A8%E3%83%AD%E3%83%BC%E3%82%B9%E3%83%88%E3%83%BC%E3%83%B3%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92",
+        "アーチーズ国立公園":"https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%BC%E3%83%81%E3%83%BC%E3%82%BA%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92",
+        "Dia de Los Muertos": "https://ja.wikipedia.org/wiki/%E6%AD%BB%E8%80%85%E3%81%AE%E6%97%A5_(%E3%83%A1%E3%82%AD%E3%82%B7%E3%82%B3)",
+        "LDS (モルモン教)": "https://www.google.com/search?q=%E3%83%A2%E3%83%AB%E3%83%A2%E3%83%B3%E6%95%99&rlz=1C5CHFA_enJP870JP870&oq=%E3%83%A2%E3%83%AB%E3%83%A2%E3%83%B3%E6%95%99&aqs=chrome..69i57j0l5.2533j0j1&sourceid=chrome&ie=UTF-8",
+        "3 Wives One Husband": "https://www.netflix.com/title/80240397?s=i&trkid=13747225",
+        "中田敦彦YouTubeチャンネル": "https://www.youtube.com/channel/UCFo4kqllbcQ4nV83WCyraiw",
+        "ユタ・ジャズ": "https://ja.wikipedia.org/wiki/%E3%83%A6%E3%82%BF%E3%83%BB%E3%82%B8%E3%83%A3%E3%82%BA",
+        "AFURI": "https://afuri.com/",
+        "日本野菜列島@Veggie_jp": "https://www.instagram.com/veggie_jp/",
+        "レッサム・フィリリ@resham_firiri_jp": "https://www.instagram.com/resham_firiri_jp/",
+        "サティヤム": "https://satyam-s.com/",
+        "ダバ・インディア (南インドカレー)": "http://www.dhabaindia.com/",
+        "グルガオン (北インドカレー)": "http://www.dhabaindia.com/"
+	},
+	"Memo":""
+}

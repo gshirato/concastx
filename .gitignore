@@ -1,0 +1,12 @@
+episodes
+music
+photos
+log
+
+*.icloud
+*.key
+
+.DS_Store
+*.mp3
+*.xml
+.ipynb_checkpoints

@@ -1,0 +1,25 @@
+{
+	"Number": "132",
+	"Genre": "con",
+	"GenreNumber": "n",
+	"Title": "私、ガーナでカーネル・サンダースを超えます。",
+	"Starr":{
+		"Gota": "Gota Shirato",
+		"Kento": "Kento"
+	},
+	"Topics":[
+		"ガーナからおかえり",
+		"ガーナに唐揚げを広めます",
+		"KFC超えを目指して"
+
+	],
+    "References":{
+		"おたよりください": "https://forms.gle/1VjUsrk8TB1fQqL86",
+		"ADUTWIE": "https://goo.gl/maps/h9f2QMzZdKmbzGjA8",
+		"ケンケ": "https://ameblo.jp/harryghana/entry-12284975052.html",
+		"キョウダイマーケット": "https://kyodaimarket.com/?tid=2&mode=f90",
+		"トゥイ語": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%82%A6%E3%82%A3%E8%AA%9E",
+		"アクアバ・ガーナ（NPO）": "https://www.npo-homepage.go.jp/npoportal/detail/013002690"
+	},
+	"Memo":""
+}

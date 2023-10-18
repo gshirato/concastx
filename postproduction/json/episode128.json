@@ -1,0 +1,28 @@
+{
+	"Number": "128",
+	"Genre": "con",
+	"GenreNumber": "n",
+	"Title": "ビール学をはじめましょう",
+	"Starr":{
+		"Gota": "Gota Shirato",
+		"Kai": "Kai"
+	},
+	"Topics":[
+		"ビール好きから醸造家へ",
+		"ビール学",
+		"美味しさと身体性",
+		"贈り物としてのビール",
+		"ポッドキャストはじめます"
+	],
+    "References":{
+		"おたよりください": "https://forms.gle/1VjUsrk8TB1fQqL86",
+		"kai / Mukai Craft Brewing": "https://twitter.com/kaitakaba",
+		"ビール女子": "https://twitter.com/beergirl_net",
+		"『拝啓、ビール職人になりました。』": "https://beergirl.net/brewers-story_c/",
+		"世界で最も有名な日本人ビール醸造家がグアムにいる理由": "https://beeressay.com/blog/2017/04/05/guamreport/",
+		"酒税": "https://money-viva.jp/money-jiten/0032/",
+		"箕面ビール": "https://www.minoh-beer.jp",
+		"マルコム・グラッドウェル、パスタソースと幸せについて": "https://www.ted.com/talks/malcolm_gladwell_choice_happiness_and_spaghetti_sauce?language=ja"
+	},
+	"Memo":""
+}

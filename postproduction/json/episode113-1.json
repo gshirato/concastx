@@ -1,0 +1,27 @@
+{
+	"Number": "113-1",
+	"Genre": "con",
+	"GenreNumber": "n",
+	"Title": "自分の場所を掴み取れ",
+	"Starr":{
+		"Gota": "Gota Shirato",
+		"TKB84": "Tyoichi Takabayashi"
+	},
+	"Topics":[
+		"「慶大卒25歳、家なし金なし仕事なし」から",
+		"新卒からドイツでサッカーをするまで",
+		"イギリスに行くつもりだった",
+		"語学学習"
+	],
+    "References":{
+		"おたよりはこちらから": "https://forms.gle/1VjUsrk8TB1fQqL86",
+		"高林さんの記事はこちら": "https://note.com/takabayashir/n/n3dab5b505ceb",
+		"フットボリスタ第84号 (試合の見方が変わる！プロの現場で行われている最先端の「分析」手法を公開)": "https://www.footballista.jp/magazine/109152",
+		"高林さんが住んでいたヴィンデック": "https://www.google.de/maps/place/%E3%80%9251570+%E3%83%B4%E3%82%A3%E3%83%B3%E3%83%87%E3%83%83%E3%82%AF/@50.7903717,7.5055506,12z/data=!3m1!4b1!4m5!3m4!1s0x47bebe6c51567145:0x42760fc4a2a7df0!8m2!3d50.7880319!4d7.565546?hl=ja&authuser=0",
+		"FC BW Friesdorf": "https://fc-bw-friesdorf.de/",
+		"原田祐輔": "https://ja.wikipedia.org/wiki/%E5%8E%9F%E7%94%B0%E7%A5%90%E8%BC%94",
+		"チェスターフィールド・フットボール・クラブ": "https://goo.gl/maps/4SevSaYFrrzgLscQ6",
+		"東京外国語大学言語モジュール": "http://www.coelang.tufs.ac.jp/mt/de/"
+	},
+	"Memo":""
+}

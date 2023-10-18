@@ -1,0 +1,26 @@
+{
+	"Number": "123",
+	"Genre": "con",
+	"GenreNumber": "n",
+	"Title": "ダイエットはじめました",
+	"Starr":{
+		"Gota": "Gota Shirato",
+		"Uesho": "Uesho"
+	},
+	"Topics":[
+		"ロン毛",
+		"ダイエット",
+		"博士課程に縛られる",
+		"知れば知るほど知りたくない",
+		"守破離",
+		"屈辱的な陰性テスト"
+
+	],
+    "References":{
+		"おたよりください": "https://forms.gle/1VjUsrk8TB1fQqL86",
+		"Saitama Diet Style": "https://twitter.com/saitamaps",
+		"すんでさいたま": "https://twitter.com/sunde_saitama"
+
+	},
+	"Memo":""
+}

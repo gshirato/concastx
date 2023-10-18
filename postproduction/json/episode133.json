@@ -1,0 +1,33 @@
+{
+	"Number": "133",
+	"Genre": "con",
+	"GenreNumber": "n",
+	"Title": "Family in Urawa",
+	"Starr":{
+		"Gota": "Gota Shirato",
+		"Noah": "Noah Daniel Ludwig"
+	},
+	"Topics":[
+		"浦和とドイツをつないだW杯",
+		"浦和レッズのアイデンティティ",
+		"レッズ国際コミュニティ",
+		"6回目の浦和市へ",
+		"日本で夢を叶える"
+	],
+    "References":{
+		"おたよりください": "https://forms.gle/1VjUsrk8TB1fQqL86",
+		"骨付鳥 一鶴": "https://www.ikkaku.co.jp/",
+		"Tonbiii (SHOP)": "https://www.uthiwa-indigo.com/shop",
+		"Dream League Soccer": "https://dream-league-soccer.en.softonic.com/android",
+		"Transfermarkt": "https://www.transfermarkt.jp/",
+		"浦和レッズインターナショナルコミュニティ（Discord）": "https://discord.gg/vrj7ZFQFnV",
+		"阿部勇樹が振り返る浦和レッズでの15年 第3回〜3年計画への挑戦と自身の10年後〜 (YouTube)": "https://www.youtube.com/watch?v=z5bYopJTDmA",
+		"獨協医科大学": "https://ja.wikipedia.org/wiki/%E7%8D%A8%E5%8D%94%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6",
+		"祖母井志門さん": "https://twitter.com/REDSOFFICIAL/status/754467624961007616?s=20",
+		"ビッグ・ハート 道を切り拓くメンタルの力": "https://www.amazon.co.jp/%E3%83%93%E3%83%83%E3%82%B0%E3%83%BB%E3%83%8F%E3%83%BC%E3%83%88-%E9%81%93%E3%82%92%E5%88%87%E3%82%8A%E6%8B%93%E3%81%8F%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AB%E3%81%AE%E5%8A%9B-%E6%A7%99%E9%87%8E%E6%99%BA%E7%AB%A0/dp/4021902422",
+		"カタールW杯、工事で「6500人以上が死亡」か": "https://qoly.jp/2021/02/25/over-6500-died-for-qatar-2022-preparations-kgn-1",
+		"AuB": "https://aub.co.jp/",
+		"AuB 問い合わせ": "https://aub.co.jp/enquiry/"
+	},
+	"Memo":""
+}

@@ -1,0 +1,24 @@
+{
+	"Number": "112",
+	"Genre": "con",
+	"GenreNumber": "n",
+	"Title": "わたしの頭の中のコンパス",
+	"Starr":{
+		"Gota": "Gota Shirato",
+		"Katashin": "Shin Katayama"
+	},
+	"Topics":[
+		"Clubhouse",
+		"現代版パチンコ - Tiktok",
+		"ひろゆき",
+		"旅",
+		"北を意識する",
+		"ソウルフード",
+		"帰省"
+	],
+    "References":{
+		"おたよりはこちらから": "https://forms.gle/1VjUsrk8TB1fQqL86",
+		"どん公式インスタグラム（ねこ）": "https://www.instagram.com/don.desuyo/"
+	},
+	"Memo":""
+}

@@ -1,0 +1,25 @@
+{
+	"Number": "49",
+	"Genre": "con",
+	"GenreNumber": "n",
+	"Title": "査読付きラーメンデータベース",
+	"Starr":{
+		"Gota": "Gota",
+		"Katashin": "Shin Katayama"
+	},
+	"Topics":[
+		
+	],
+    "References":{
+		"Google Research Football with Manchester City F.C.": "https://www.kaggle.com/c/google-football",
+		"Artificial Intelligence: Reinforcement Learning in Python": "https://www.udemy.com/course/artificial-intelligence-reinforcement-learning-in-python/",
+		"LOVOT (ラボット)": "https://lovot.life/lp/lovot_202004/",
+		"GROOVE X": "https://groove-x.com/",
+		"FLEXISPOT": "https://flexispot.jp/",
+		"Happy Hacking Keyboard": "https://happyhackingkb.com/jp/",
+		"Real Force": "https://www.realforce.co.jp/",
+		"Majestouch": "https://www.diatec.co.jp/products/det.php?prod_c=3",
+		"Herman Miller": "https://www.hermanmiller.com/ja_jp/products/seating/office-chairs/sayl-chairs/"
+	},
+	"Memo":""
+}

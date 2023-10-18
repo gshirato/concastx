@@ -1,0 +1,26 @@
+{
+	"Number": "130",
+	"Genre": "con",
+	"GenreNumber": "n",
+	"Title": "ヒッチハイクに必要なこと",
+	"Starr":{
+		"Gota": "Gota Shirato",
+		"Thima": "Oyaji",
+		"Uesho": "Uesho"
+	},
+	"Topics":[
+		"ヒッチハイク",
+		"福島をめざして",
+		"社内の会話",
+		"カニ族",
+		"ヒヤヒヤした乗車",
+		"トラックに揺られて",
+		"一歩踏み出す"
+
+	],
+    "References":{
+		"おたよりください": "https://forms.gle/1VjUsrk8TB1fQqL86",
+		"麺屋龍次【公式】": "https://twitter.com/menya_ryuji"
+	},
+	"Memo":""
+}

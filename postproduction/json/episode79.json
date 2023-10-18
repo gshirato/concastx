@@ -1,0 +1,19 @@
+{
+	"Number": "79",
+	"Genre": "sports",
+	"GenreNumber": "n",
+	"Title": "聞けば見えてくるポッドキャスト",
+	"Starr":{
+		"Gota": "Gota",
+		"Yuda": "Yuki Yuda",
+		"Kondo": "Ryosuke Kondo"
+	},
+	"Topics":[
+		"Concastの振り返りをしました",
+		"印象に残ったエピソード",
+		"好きな出演者"
+	],
+	"References":{
+	},
+	"Memo":""
+}

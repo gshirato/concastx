@@ -1,0 +1,27 @@
+{
+	"Number": "136",
+	"Genre": "con",
+	"GenreNumber": "n",
+	"Title": "ガーナ屋台奮闘記",
+	"Starr":{
+		"Gota": "Gota Shirato",
+		"Kento": "Kento Sekine"
+	},
+	"Topics":[
+		"中庸",
+		"博士課程1年目を振り返って",
+		"その男、リスナーにつき",
+		"唐揚げ屋Yoofin",
+		"読んだ本をすぐに忘れてしまう",
+		"ネトフリの2倍速再生について"
+	],
+    "References":{
+		"おたよりください": "https://forms.gle/1VjUsrk8TB1fQqL86",
+		"ガーナの唐揚げ屋さんYoofin": "https://protocol.ooo/companies/yoofin-ltd",
+		"「唐揚げ」はガーナ人の胃袋を掴めるのか？27歳“ごはんギーク”が切り拓く食のフロンティア": "https://www.hotpepper.jp/mesitsu/entry/hogemama/2021-00616?amp=1",
+		"Humankind 希望の歴史 上 人類が善き未来をつくるための18章": "https://www.amazon.co.jp/Humankind-%E5%B8%8C%E6%9C%9B%E3%81%AE%E6%AD%B4%E5%8F%B2-%E4%B8%8A-%E4%BA%BA%E9%A1%9E%E3%81%8C%E5%96%84%E3%81%8D%E6%9C%AA%E6%9D%A5%E3%82%92%E3%81%A4%E3%81%8F%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE18%E7%AB%A0-%E3%83%AB%E3%83%88%E3%82%AC%E3%83%BC%E3%83%BB%E3%83%96%E3%83%AC%E3%82%B0%E3%83%9E%E3%83%B3/dp/4163914072",
+		"Humankind 希望の歴史 下 人類が善き未来をつくるための18章": "https://www.amazon.co.jp/Humankind-%E5%B8%8C%E6%9C%9B%E3%81%AE%E6%AD%B4%E5%8F%B2-%E4%B8%8B-%E4%BA%BA%E9%A1%9E%E3%81%8C%E5%96%84%E3%81%8D%E6%9C%AA%E6%9D%A5%E3%82%92%E3%81%A4%E3%81%8F%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE18%E7%AB%A0-%E3%83%AB%E3%83%88%E3%82%AC%E3%83%BC%E3%83%BB%E3%83%96%E3%83%AC%E3%82%B0%E3%83%9E%E3%83%B3/dp/4163914080",
+		"多様性の科学 画一的で凋落する組織、複数の視点で問題を解決する組織": "https://www.amazon.co.jp/%E5%A4%9A%E6%A7%98%E6%80%A7%E3%81%AE%E7%A7%91%E5%AD%A6-%E7%94%BB%E4%B8%80%E7%9A%84%E3%81%A7%E5%87%8B%E8%90%BD%E3%81%99%E3%82%8B%E7%B5%84%E7%B9%94%E3%80%81%E8%A4%87%E6%95%B0%E3%81%AE%E8%A6%96%E7%82%B9%E3%81%A7%E5%95%8F%E9%A1%8C%E3%82%92%E8%A7%A3%E6%B1%BA%E3%81%99%E3%82%8B%E7%B5%84%E7%B9%94-%E3%83%9E%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%BB%E3%82%B5%E3%82%A4%E3%83%89/dp/4799327526/"
+	},
+	"Memo":""
+}

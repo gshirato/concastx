@@ -1,0 +1,33 @@
+{
+	"Number": "122",
+	"Genre": "con",
+	"GenreNumber": "n",
+	"Title": "滝の魅力 - 音が独りにしてくれる",
+	"Starr":{
+		"Gota": "Gota Shirato",
+		"Oga": "Oga"
+	},
+	"Topics":[
+		"滝",
+		"滝にハマるきっかけ",
+		"初滝",
+		"能動滝",
+		"滝の種類",
+		"行楽"
+	],
+    "References":{
+		"おたよりください": "https://forms.gle/1VjUsrk8TB1fQqL86",
+		"竜頭の滝": "https://ja.wikipedia.org/wiki/%E7%AB%9C%E9%A0%AD%E3%81%AE%E6%BB%9D",
+		"華厳の滝": "https://ja.wikipedia.org/wiki/%E8%8F%AF%E5%8E%B3%E6%BB%9D",
+		"養老の滝": "https://www.yoro-park.com/facility-map/yoro-falls/",
+		"養老乃瀧": "https://www.yoronotaki.co.jp/",
+		"養老天命反転地": "https://www.yoro-park.com/facility-map/hantenchi/",
+		"付知峡": "https://www.kankou-gifu.jp/spot/5700/",
+		"浄蓮の滝": "https://www.j-taki.com/",
+		"軽井沢 白糸の滝": "https://www.town.karuizawa.lg.jp/www/sp/contents/1001000000697/index.html",
+		"那智御瀧": "https://kumanonachitaisha.or.jp/pavilion/waterfall.html",
+		"熊野那智大社": "https://kumanonachitaisha.or.jp/pavilion/waterfall.html"
+
+	},
+	"Memo":""
+}

@@ -1,0 +1,27 @@
+{
+	"Number": "97",
+	"Genre": "con",
+	"GenreNumber": "n",
+	"Title": "ネタバレってどう？",
+	"Starr":{
+		"Gota": "Gota Shirato",
+		"Katashin": "Shin Katayama"
+	},
+	"Topics":[
+		"「ハマってる」とは",
+		"ネタバレについて",
+		"ウチの娘は、彼氏が出来ない!!",
+		"スターウォーズ",
+		"ハリーポッター",
+		"成長の漫画"
+	],
+    "References":{
+		"おたよりコーナー": "https://forms.gle/1VjUsrk8TB1fQqL86",
+		"ダベル": "https://iguchijp.medium.com/%E3%83%80%E3%83%99%E3%83%AB%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D-47fa720d478",
+		"呪術廻戦": "https://ja.wikipedia.org/wiki/%E5%91%AA%E8%A1%93%E5%BB%BB%E6%88%A6",
+		"今際の国のアリス":"https://ja.wikipedia.org/wiki/%E4%BB%8A%E9%9A%9B%E3%81%AE%E5%9B%BD%E3%81%AE%E3%82%A2%E3%83%AA%E3%82%B9",
+		"ウチの娘は、彼氏が出来ない!!":"https://www.ntv.co.jp/uchikare/chart/",
+		"オー!マイ・ボス!恋は別冊で":"https://www.tbs.co.jp/BOSSKOI_tbs/"
+	},
+	"Memo":""
+}

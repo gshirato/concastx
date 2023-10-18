@@ -1,0 +1,31 @@
+{
+	"Number": "45",
+	"Genre": "con",
+	"GenreNumber": "n",
+	"Title": "おすすめTed Talk (1)",
+	"Starr":{
+		"Gota": "Gota"
+	},
+	"Topics":[
+		
+	],
+	"Effects":[
+		{
+			
+		}
+	],
+	"Chapter":[
+	
+	],
+    "References":{
+		"エイミー・カディ : ボディランゲージが人を作る | TED Talk": "https://www.ted.com/talks/amy_cuddy_your_body_language_may_shape_who_you_are?language=ja",
+		"優れたリーダーはどうやって行動を促すか": "https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?language=ja",
+		"人を惹きつける話し方": "https://www.ted.com/talks/julian_treasure_how_to_speak_so_that_people_want_to_listen?language=ja",
+		"注意をそらすテクニック": "https://www.ted.com/talks/apollo_robbins_the_art_of_misdirection?language=ja",
+		"やる気に関する驚きの科学": "https://www.ted.com/talks/dan_pink_the_puzzle_of_motivation?language=ja",
+		"内向的な人が秘めている力": "https://www.ted.com/talks/susan_cain_the_power_of_introverts?language=ja",
+		"ストレスと友達になる方法": "https://www.ted.com/talks/kelly_mcgonigal_how_to_make_stress_your_friend?language=ja",
+		"パスタソースと幸せについて": "https://www.ted.com/talks/malcolm_gladwell_choice_happiness_and_spaghetti_sauce?language=ja"
+	},
+	"Memo":""
+}

@@ -1,0 +1,21 @@
+{
+	"Number": "141-6",
+	"Genre": "con",
+	"GenreNumber": "n",
+	"Title": "世界一早いアカデミー賞 - 他ノミネート作品",
+	"Starr":{
+		"Gota": "Gota Shirato",
+		"Kondo": "Ryosuke Kondo"
+	},
+	"Topics":[
+		"惜しくも受賞を逃した作品"
+	],
+    "References":{
+		"おたよりください": "https://forms.gle/1VjUsrk8TB1fQqL86",
+		"ザカリーに捧ぐ - Wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B6%E3%82%AB%E3%83%AA%E3%83%BC%E3%81%AB%E6%8D%A7%E3%81%90",
+		"天使にラブ・ソングを… - Wikipedia": "https://ja.wikipedia.org/wiki/%E5%A4%A9%E4%BD%BF%E3%81%AB%E3%83%A9%E3%83%96%E3%83%BB%E3%82%BD%E3%83%B3%E3%82%B0%E3%82%92%E2%80%A6",
+		"テキサスの五人の仲間 - Wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%AD%E3%82%B5%E3%82%B9%E3%81%AE%E4%BA%94%E4%BA%BA%E3%81%AE%E4%BB%B2%E9%96%93",
+		"十三人の刺客 (2010年の映画) - Wikipedia": "https://ja.wikipedia.org/wiki/%E5%8D%81%E4%B8%89%E4%BA%BA%E3%81%AE%E5%88%BA%E5%AE%A2_(2010%E5%B9%B4%E3%81%AE%E6%98%A0%E7%94%BB)"
+	},
+	"Memo":"修学旅行の夜"
+}

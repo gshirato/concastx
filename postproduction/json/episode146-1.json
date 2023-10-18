@@ -1,0 +1,27 @@
+{
+	"Number": "146-1",
+	"Genre": "con",
+	"GenreNumber": "n",
+	"Title": "世界一遅いW杯特集！",
+	"Starr":{
+		"Gota": "Gota Shirato",
+		"Kondo": "Ryosuke Kondo",
+		"Yuda": "Yuki Yuda"
+	},
+	"Topics":[
+		"W杯特集",
+		"ここだけは押さえておけ",
+		"日本の同グループ",
+		"優勝候補",
+		"みんなの注目試合"
+	],
+    "References":{
+		"Concastについて": "https://linktr.ee/concastx",
+		"フリアン・アルバレス": "https://ja.wikipedia.org/wiki/フリアン・アルバレス",
+		"アンヘル・ディ・マリア": "https://ja.wikipedia.org/wiki/アンヘル・ディ・マリア",
+		"パウロ・ディバラ": "https://ja.wikipedia.org/wiki/パウロ・ディバラ",
+		"": "https://www.qatar2022.qa/book/",
+		"2022年FIFAW杯": "https://ja.wikipedia.org/wiki/2022_FIFAワールドカップ"
+	},
+	"Memo":""
+}

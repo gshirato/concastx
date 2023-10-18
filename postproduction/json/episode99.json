@@ -1,0 +1,22 @@
+{
+	"Number": "99",
+	"Genre": "con",
+	"GenreNumber": "n",
+	"Title": "フランスの受験戦争",
+	"Starr":{
+		"Gota": "Gota Shirato",
+		"Pierre": "Pierre"
+	},
+	"Topics":[
+		"グランゼコール",
+		"プレパ",
+		"フランスの義務教育・給食・掃除"
+	],
+    "References":{
+		"おたよりコーナー": "https://forms.gle/1VjUsrk8TB1fQqL86",
+		"グランゼコールってなに？": "https://koko-blog.com/grandes-ecoles/",
+		"グランゼコール(Wikipedia)": "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%BC%E3%82%B3%E3%83%BC%E3%83%AB",
+		"プレパ − グランゼコール準備級(Wikipedia)": "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%BC%E3%82%B3%E3%83%BC%E3%83%AB%E6%BA%96%E5%82%99%E7%B4%9A"
+	},
+	"Memo":""
+}

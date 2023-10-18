@@ -1,0 +1,25 @@
+{
+	"Number": "121",
+	"Genre": "con",
+	"GenreNumber": "n",
+	"Title": "ようこそ、彩の国へ",
+	"Starr":{
+		"Gota": "Gota Shirato",
+		"Alex": "Alex"
+	},
+	"Topics":[
+		"キックボクシング",
+		"EURO2020",
+		"ナント",
+		"レイモン・ドメネク",
+		"酒井宏樹",
+		"ベンゼマ代表復帰",
+		"埼玉のイメージ"
+	],
+    "References":{
+		"おたよりください": "https://forms.gle/1VjUsrk8TB1fQqL86",
+		"レイモン・ドメネク": "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%A4%E3%83%A2%E3%83%B3%E3%83%BB%E3%83%89%E3%83%A1%E3%83%8D%E3%82%AF",
+		"Bienvenue chez les Ch’tis (ようこそシュティの国へ)": "https://life.gentosha-go.com/articles/-/1123"
+	},
+	"Memo":""
+}

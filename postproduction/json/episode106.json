@@ -1,0 +1,28 @@
+{
+	"Number": "106",
+	"Genre": "sports",
+	"GenreNumber": "n",
+	"Title": "スポーツが持つ価値。アマチュアリズムをテーマに",
+	"Starr":{
+		"Gota": "Gota Shirato",
+		"Roku": "Roku"
+	},
+	"Topics":[
+		"アマチュアリズム",
+		"プロの競争",
+		"スポーツの価値",
+		"オリンピック",
+		"給与"
+	],
+    "References":{
+		"おたよりコーナー": "https://forms.gle/1VjUsrk8TB1fQqL86",
+		"「なぜ、自分のドリブルは抜けるのか」意識高すぎルーキー・三笘薫が筑波大で書いた卒業論文": "https://number.bunshun.jp/articles/-/845385",
+		"八木あかね (Twitter)": "https://twitter.com/otokodetsuraiyo?lang=ja",
+		"あのピッチでは一体何が起こっていたのか？「10.26の回顧録～ルヴァンカップ決勝の知られざる物語～」本編": "https://www.youtube.com/watch?v=qAl1UI8NC2c",
+		"Ali-Frazier was more than a fight, it was part of my awakening as a Black man": "https://theundefeated.com/features/ali-frazier-was-more-than-a-fight-it-was-part-of-my-awakening-as-a-black-man/",
+		"キャスター・セメンヤ": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A3%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%BB%E3%82%BB%E3%83%A1%E3%83%B3%E3%83%A4",
+		"義足ランナー「彼の義足は長過ぎる」": "https://www.newsweekjapan.jp/stories/world/2012/09/post-2672.php",
+		"嘉納治五郎": "https://ja.wikipedia.org/wiki/%E5%98%89%E7%B4%8D%E6%B2%BB%E4%BA%94%E9%83%8E"
+	},
+	"Memo":""
+}

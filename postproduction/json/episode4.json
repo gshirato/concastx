@@ -1,0 +1,90 @@
+{
+	"Number": "4",
+	"Title": "Music makes people happy",
+	"RecDate":"2019-09-07",
+	"PubDate":"2019-09-07",
+	"Starr":{
+		"Takumi": "Takumi",
+		"Gota": "Gota Shirato"
+	},
+	"Topics":[
+		"音楽配信にいたるまで",
+		"睡眠とASMRマイク",
+		"音楽の身体的影響"
+	],
+	"Effects":[
+		"スタート合わせる",
+		"(ノイズ削除)巧の音を白戸が拾っていたので",
+		"(コンプレッサー)白戸の声",
+		"(ノイズ削除)巧のマウスオン"
+
+	],
+	"Chapter":[
+		{
+			"Time": "00:00:00",
+			"Text": "ようこそ"
+		},
+		{
+			"Time": "00:05:17",
+			"Text": "某物流系のおしごと"
+		},
+		{
+			"Time": "00:08:46",
+			"Text": "音楽つくってます"
+		},
+		{
+			"Time": "00:16:58",
+			"Text": "ASMR マイク"
+		},
+		{
+			"Time": "00:23:17",
+			"Text": "睡眠の質改善"
+		},
+		{
+			"Time": "00:31:01",
+			"Text": "音楽と筋トレ"
+		},
+		{
+			"Time": "00:40:20",
+			"Text": "音楽配信のプロセス"
+		},
+		{
+			"Time": "00:54:08",
+			"Text": "理論と直感のバランス"
+		},
+		{
+			"Time": "01:11:05",
+			"Text": "音楽の身体的影響"
+		},
+		{
+			"Time": "01:16:34",
+			"Text": "音楽で変わる人生"
+		},
+		{
+			"Time": "01:26:20",
+			"Text": "Chao"
+		}
+
+	],
+	"References":{
+		"オーディオテクニカ コンデンサーマイクロホン AT2020": "https://www.amazon.co.jp/オーディオテクニカ-audio-technica-AT2020-コンデンサーマイクロホン/dp/B000Y0FBY6/ref=asc_df_B000Y0FBY6/?tag=jpgo-22&linkCode=df0&hvadid=265882564275&hvpos=1o1&hvnetw=g&hvrand=17062622741146520825&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1009307&hvtargid=pla-441062280845&psc=1&th=1&psc=1",
+		"ASMR": "https://ja.wikipedia.org/wiki/ASMR",
+		"Headspace":"https://www.headspace.com/",
+		"バイノーラル録音": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%82%A4%E3%83%8E%E3%83%BC%E3%83%A9%E3%83%AB%E9%8C%B2%E9%9F%B3",
+		"『\"6.1ch サラウンドLIVE\"を、バイノーラル音源でオンエア！』": "https://www.tfm.co.jp/lock/sakana/index.php?itemid=11441&catid=17",
+		"Satisfying Videos": "https://www.youtube.com/results?search_query=satisfying+video",
+		"Fitbit Versa": "https://www.fitbit.com/eu/shop/versa",
+		"Morley Robertson Show": "https://block.fm/radios/28",
+		"レッグプレス": "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%83%83%E3%82%B0%E3%83%97%E3%83%AC%E3%82%B9",
+		"カーフ・レイズ": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%BC%E3%83%95%E3%83%BB%E3%83%AC%E3%82%A4%E3%82%BA",
+		"Logic Pro X": "https://www.apple.com/logic-pro/",
+		"TuneCore": "https://www.tunecore.co.jp/",
+		"コード理論大全": "https://www.amazon.co.jp/%E3%82%B3%E3%83%BC%E3%83%89%E7%90%86%E8%AB%96%E5%A4%A7%E5%85%A8-%E6%B8%85%E6%B0%B4-%E9%9F%BF-ebook/dp/B07CH5MSP4",
+		"MIDI":"https://ja.wikipedia.org/wiki/MIDI",
+		"浦和ビアスタジアム": "https://urawa-beer-stadium.com/",
+		"埼玉 Sports Start-up (SSS)": "https://www2.deloitte.com/jp/ja/pages/consumer-and-industrial-products/articles/sb/saitama-sports-startup-1.html",
+		"ローストチキンコオロギ": "https://roastchicken-korogi.com/",
+		"Sportip": "https://www.sportip.jp/"
+	},
+	"Memo":"Skypeで連絡、ローカルで録音。巧のマイク良い。"
+}

@@ -1,0 +1,22 @@
+{
+	"Number": "126",
+	"Genre": "con",
+	"GenreNumber": "n",
+	"Title": "数字を制するものはキャンプ沼を制す",
+	"Starr":{
+		"Gota": "Gota Shirato",
+		"Masa": "Masa"
+	},
+	"Topics":[
+		"キャンプ",
+		"語学"
+	],
+    "References":{
+		"おたよりください": "https://forms.gle/1VjUsrk8TB1fQqL86",
+		"DoD": "https://www.dod.camp/",
+		"ヨクミカケルヤーツ": "https://www.dod.camp/product/cx2_741_kh/",
+		"ogawa ONLINE STORE": "https://www.store-campal.co.jp/",
+		"やっぱり登場した！ ogawaが好評のテクニカルコットンをタープにも採用！ (GO OUT)": "https://web.goout.jp/gear/26196/"
+	},
+	"Memo":""
+}

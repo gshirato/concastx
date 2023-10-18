@@ -1,0 +1,19 @@
+{
+	"Number": "80",
+	"Genre": "sports",
+	"GenreNumber": "n",
+	"Title": "私情を入れたのが反省点",
+	"Starr":{
+		"Gota": "Gota",
+		"Yuda": "Yuki Yuda",
+		"Kondo": "Ryosuke Kondo",
+		"Katashin": "Shin Katayama"
+	},
+	"Topics":[
+		"J1順位予想答え合わせ",
+		"印象に残った試合・選手"
+	],
+    "References":{
+	},
+	"Memo":""
+}

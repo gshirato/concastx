@@ -1,0 +1,28 @@
+{
+	"Number": "131",
+	"Genre": "con",
+	"GenreNumber": "n",
+	"Title": "フランスの温泉郷、世界遺産へ",
+	"Starr":{
+		"Gota": "Gota Shirato",
+		"Yiying": "Yiying",
+		"Masa": "Masa",
+		"Shiichan": "Shiichan"
+	},
+	"Topics":[
+		"フランスから6階",
+		"ヴィシー世界遺産",
+		"ベルリン旅行",
+		"モンゴルキャンプ",
+		"ヒッチハイク",
+		"フランスとドイツの生活の違い"
+	],
+    "References":{
+		"おたよりください": "https://forms.gle/1VjUsrk8TB1fQqL86",
+		"VICHY : 水の都の女王と呼ばれる街": "https://www.obonparis.com/ja/magazine/lost-in-vichy-they-city-of-water",
+		"ニース、ヴィシー、コルドゥアン灯台が世界遺産に": "http://jp.media.france.fr/ja/content/%E3%83%8B%E3%83%BC%E3%82%B9%E3%80%81%E3%83%B4%E3%82%A3%E3%82%B7%E3%83%BC%E3%80%81%E3%82%B3%E3%83%AB%E3%83%89%E3%82%A5%E3%82%A2%E3%83%B3%E7%81%AF%E5%8F%B0%E3%81%8C%E4%B8%96%E7%95%8C%E9%81%BA%E7%94%A3%E3%81%AB",
+		"那須モンゴリアビレッジ": "https://www.tenger.jp/",
+		"ヴィエリチカ岩塩坑": "https://www.poland.travel/ja/%E8%A6%B3%E5%85%89%E3%82%B9%E3%83%9D%E3%83%83%E3%83%88/%E3%83%86%E3%83%BC%E3%83%9E%E5%88%A5%E8%A6%B3%E5%85%89%E3%83%AB%E3%83%BC%E3%83%88/%E3%83%B4%E3%82%A3%E3%82%A8%E3%83%AA%E3%83%81%E3%82%AB%E5%B2%A9%E5%A1%A9%E5%9D%91"
+	},
+	"Memo":""
+}

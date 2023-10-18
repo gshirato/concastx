@@ -1,0 +1,21 @@
+{
+	"Number": "88",
+	"Genre": "con",
+	"GenreNumber": "n",
+	"Title": "ハガキ職人、求ム！",
+	"Starr":{
+		"Gota": "Gota Shirato",
+		"Shoppi": "Koichi Kinoshita"
+	},
+	"Topics":[
+		"Gold Tree",
+		"ポッドキャスト名",
+		"ハガキ職人"
+	],
+    "References":{
+		"Gold Tree": "https://lit.link/goldtree",
+		"Yeti": "https://www.bluemic.com/ja-jp/products/yeti/",
+		"GERA": "https://gera.fan/"
+	},
+	"Memo":""
+}

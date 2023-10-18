@@ -1,0 +1,19 @@
+{
+	"Number": "78",
+	"Genre": "con",
+	"GenreNumber": "n",
+	"Title": "第2回もくもく会",
+	"Starr":{
+		"Gota": "Gota",
+		"Shoki": "Shoki",
+		"Thima": "Ryo Oshima"
+	},
+	"Topics":[
+		"トラジェクトリー",
+		"Shopify"
+	],
+    "References":{
+		"Ryo Ohshima Portfolio": "https://ryo-ohshima-portfolio.work/"
+	},
+	"Memo":""
+}

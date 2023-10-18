@@ -1,0 +1,27 @@
+{
+	"Number": "football-15",
+	"Genre": "con",
+	"GenreNumber": "n",
+	"Title": "感染症とスポーツ - よい仕組みを作るために (フットボール支部#15)",
+	"Starr":{
+		"Gota": "Gota Shirato",
+		"Yuda": "Yuki Yuda"
+	},
+	"Topics":[
+		"全国高等学校サッカー選手権",
+		"関東第一高等学校",
+		"W杯イヤー",
+		"笑った退場話",
+		"今年の目標",
+		"浦和レッズの背番号、誰が思い浮かぶ？"
+	],
+    "References":{
+		"おたよりはこちらから": "https://forms.gle/1VjUsrk8TB1fQqL86",
+		"関係者から新型コロナウイルス陽性反応　第100回全国高等学校サッカー選手権大会": "https://www.jfa.jp/match/alljapan_highschool_2021/news/00028803/",
+		"準決勝出場辞退について": "https://www.ntv.co.jp/soc/100/news/fqnwi0xr8gp98tvx.html",
+		"JFA サッカー活動の再開に向けたガイドライン (47 都道府県サッカー協会/9 地域サッカー協会向け)": "https://www.jfa.jp/about_jfa/guideline.html",
+		"勝ってもピンチ大津に届いた支援の輪　高校サッカー公立校唯一の４強で資金不足も寄付１０００万円": "https://hochi.news/articles/20220106-OHT1T51200.html",
+		"JFL昇格をかけた試合直前のロッカーで呪術廻戦をオススメした話と、「俺、今年は本気を出すから」と宣言する奴がだいたい失敗する理由。": "https://note.com/izz_izm/n/n4997efc7bec3"
+	},
+	"Memo":""
+}
