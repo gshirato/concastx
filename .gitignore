@@ -12,4 +12,4 @@ log
 .ipynb_checkpoints
 __pycache__
 
-episode-test.json
+episode-test.*
