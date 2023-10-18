@@ -254,8 +254,7 @@ class ConcastImageEditor:
 
 
 def main():
-    in_ = sys.argv[1]
-    episode_name, episode_number = determine_episode_name_and_number(in_)
+    episode_name, episode_number = determine_episode_name_and_number(sys.argv[1])
     editor = ConcastImageEditor(
         "Gota", os.path.abspath(".."), episode_name, episode_number
     )
