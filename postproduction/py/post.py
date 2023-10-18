@@ -134,13 +134,10 @@ def write_sns_post(title, comments, episode_name, episode_number=None):
     return sns_text
 
 
-def make_feed(in_):
+def make_feed(episode_name, episode_number):
     """
     could be used as main()
     """
-    in_ = sys.argv[1]
-
-    episode_name, episode_number = determine_episode_name_and_number(in_)
     create_post(episode_name, episode_number)
 
 
@@ -163,30 +160,14 @@ def natural_keys(data):
     return [atoi(c) for c in re.split(r"(\d+)", text)]
 
 
-def get_relative_episodes(in_):
+def get_related_episodes(episode_name, episode_number):
     """
-    can be used as main()
+    print related episodes
     """
-    if in_.isdecimal():
-        episode_name = f"episode{in_}"
-    else:
-        if len(in_.split("-")) == 2:
-            # e.g. football-15
-            try:
-                episode_number, aftertalk_number = map(int, in_.split("-"))
-                episode_name = f"episode{episode_number}-{aftertalk_number}"
-            except BaseException:
-                episode_name = in_
-        elif len(in_.split("-")) == 3:
-            # e.g. football-16-1
-            episode_name = in_
-        else:
-            raise BaseException(f"invalid input: {in_}")
     print(episode_name)
     data = read_json(f"json/{episode_name}.json")
 
     number = data["Number"]
-    starr = ", ".join(data["Starr"])
 
     attrs = {"title": [], "starrs": list(data["Starr"].keys())}
     attrs["title"].append(number.split("-")[0])
@@ -246,5 +227,6 @@ def search_episodes(attrs):
 
 if __name__ == "__main__":
     in_ = sys.argv[1]
-    make_feed(in_)
-    get_relative_episodes(in_)
+    episode_name, episode_number = determine_episode_name_and_number(in_)
+    make_feed(episode_name, episode_number)
+    get_related_episodes(episode_name, episode_number)
