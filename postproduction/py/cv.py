@@ -204,7 +204,25 @@ class ConcastImageEditor:
         self.make_post_image("Gota")
 
 
-def determine_episode_name(input_str: Union[str, int]) -> str:
+def determine_episode_name_and_number(input_str: Union[str, int]) -> str:
+    """
+    Parses an input string and returns a tuple with two strings:
+    - The first string is a normalized version of the input that can be used as a key in a dictionary.
+    - The second string is an optional identifier that can be used to distinguish between different versions of the same input.
+
+    The input string can have one of the following formats:
+    - A decimal number, in which case the first string is "episode" followed by the number, and the second string is the number itself.
+    - Two numbers separated by a hyphen, in which case the first string is "episode" followed by the first number and the second string is the two numbers separated by a hyphen.
+    - Three tokens separated by hyphens, in which case the input is returned as is.
+    - Any other input is considered invalid and raises a BaseException.
+
+    Args:
+        input_str: A string representing the input to be parsed.
+
+    Returns:
+        A tuple with two strings: the normalized input and an optional identifier.
+    """
+
     if input_str.isdecimal():
         return f"episode{input_str}", input_str
 
@@ -230,7 +248,7 @@ def determine_episode_name(input_str: Union[str, int]) -> str:
 
 def main():
     in_ = sys.argv[1]
-    episode_name, episode_number = determine_episode_name(in_)
+    episode_name, episode_number = determine_episode_name_and_number(in_)
     editor = ConcastImageEditor(os.path.abspath(".."), episode_name, episode_number)
     editor.make_concast_post_image(episode_name)
 
