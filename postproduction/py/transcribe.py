@@ -2,6 +2,8 @@ import numpy as np
 import torch
 import pandas as pd
 import whisper
+from contextlib import contextmanager
+import os
 
 from operate_filename import determine_episode_type_and_number
 
@@ -37,6 +39,14 @@ class WhisperAPI:
         return self._make_request(audio_file_path)
 
 
+@contextmanager
+def timer(description="Time taken"):
+    start = time.time()
+    yield
+    elapsed = time.time() - start
+    print(f"{description}: {elapsed:.2f} seconds")
+
+
 if __name__ == "__main__":
     import sys
     import time
@@ -45,12 +55,17 @@ if __name__ == "__main__":
     episode_type, episode_number = determine_episode_type_and_number(sys.argv[1])
 
     whisper_api = WhisperAPI("large-v2", "ja", verbose=True)
-    audio_file_path = f"../episodes/{episode_type}/{episode_number}.mp3"
-    csv_file_path = f"../csv/{episode_type}/{episode_number}.csv"
 
-    t = time.time()
-    transcription = whisper_api.transcribe(audio_file_path)
-    print("time: ", time.time() - t)
+    episodes_dir = os.path.join("..", "episodes", episode_type)
+    transcripts_dir = os.path.join("..", "transcripts", episode_type)
+
+    audio_file_path = os.path.join(episodes_dir, f"{episode_number}.mp3.")
+    csv_file_path = os.path.join(transcripts_dir, f"{episode_number}.csv.")
+
+    IOManager.exist_or_mkdir([episodes_dir, transcripts_dir])
+
+    with timer("Transcription time"):
+        transcription = whisper_api.transcribe(audio_file_path)
 
     df = whisper_api.make_df(transcription)
     IOManager.save_df_to_csv(df, csv_file_path)
