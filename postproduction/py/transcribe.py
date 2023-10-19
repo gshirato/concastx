@@ -40,15 +40,17 @@ class WhisperAPI:
 if __name__ == "__main__":
     import sys
     import time
+    from IOManager import IOManager
 
     episode_type, episode_number = determine_episode_type_and_number(sys.argv[1])
 
     whisper_api = WhisperAPI("large-v2", "ja", verbose=True)
     audio_file_path = f"../episodes/{episode_type}/{episode_number}.mp3"
+    csv_file_path = f"../csv/{episode_type}/{episode_number}.csv"
 
     t = time.time()
     transcription = whisper_api.transcribe(audio_file_path)
     print("time: ", time.time() - t)
 
     df = whisper_api.make_df(transcription)
-    print(df)
+    IOManager.save_df_to_csv(df, csv_file_path)

@@ -14,4 +14,9 @@ class IOManager:
     def save_to_txt(content: str, filename: str):
         with open(filename, mode="w", encoding="utf-8") as file:
             file.write(content)
-        print(f"Wrote content to {filename}!")
+        print(f"Wrote txt to {filename}!")
+
+    @staticmethod
+    def save_df_to_csv(df, filename, index=False):
+        df.to_csv(filename, index=index)
+        print(f"Wrote df to {filename}!")
