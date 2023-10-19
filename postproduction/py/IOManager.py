@@ -1,40 +1,23 @@
-import json
 import os
-import pandas as pd
+
+from FileHandler import get_handler_for_extension
 
 
 class IOManager:
     @staticmethod
-    def read_csv(path, sep=","):
-        try:
-            return pd.read_csv(path, sep=sep)
-        except FileNotFoundError:
-            raise ValueError(f"File not found: {path}")
+    def read(path, template_path=None, use_template_if_absent=False):
+        handler = get_handler_for_extension(os.path.splitext(path)[1])
+        return handler.read(path, template_path, use_template_if_absent)
 
     @staticmethod
-    def read_json(path):
-        try:
-            with open(path, mode="r") as f:
-                return json.load(f)
-        except FileNotFoundError:
-            raise ValueError(f"File not found: {path}")
+    def save(content, path):
+        handler = get_handler_for_extension(os.path.splitext(path)[1])
+        handler.save(content, path)
 
     @staticmethod
-    def save_to_json(content, path):
-        with open(path, mode="w") as f:
-            json.dump(content, f, indent=4, ensure_ascii=False)
-        print(f"Wrote json to {path}!")
-
-    @staticmethod
-    def save_to_txt(content: str, filename: str):
-        with open(filename, mode="w", encoding="utf-8") as file:
-            file.write(content)
-        print(f"Wrote txt to {filename}!")
-
-    @staticmethod
-    def save_df_to_csv(df, filename, index=False):
-        df.to_csv(filename, index=index)
-        print(f"Wrote df to {filename}!")
+    def exists(path):
+        handler = get_handler_for_extension(os.path.splitext(path)[1])
+        return handler.exists(path)
 
     @staticmethod
     def exist_or_mkdir(paths):

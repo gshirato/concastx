@@ -71,12 +71,13 @@ def get_markers(path):
     return IOManager.read_csv(path, sep="\t")["Name"].tolist()
 
 
+def process(episode_type, episode_number):
+    markers = get_markers(f"markers/{episode_type}/{episode_number}.csv")
+    episode_data = manage_episode_data(episode_type, episode_number, markers)
+    print(episode_data)
+    IOManager.save_to_json(episode_data, f"json/{episode_type}/{episode_number}.json")
+
+
 if __name__ == "__main__":
     episode_type, episode_number = determine_episode_type_and_number(sys.argv[1])
-    markers = get_markers(f"markers/{episode_type}/{episode_number}.csv")
-
-    episode_data = manage_episode_data(episode_type, episode_number, markers)
-
-    print(episode_data)
-
-    IOManager.save_to_json(episode_data, f"json/{episode_type}/{episode_number}.json")
+    process(episode_type, episode_number)

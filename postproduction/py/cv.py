@@ -245,8 +245,7 @@ class ConcastImageEditor:
         self.make_post_image(self.host_name)
 
 
-def main():
-    episode_type, episode_number = determine_episode_type_and_number(sys.argv[1])
+def process(episode_type, episode_number):
     editor = ConcastImageEditor(
         "Gota", os.path.abspath(".."), episode_type, episode_number
     )
@@ -254,4 +253,5 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    episode_type, episode_number = determine_episode_type_and_number(sys.argv[1])
+    process(episode_type, episode_number)

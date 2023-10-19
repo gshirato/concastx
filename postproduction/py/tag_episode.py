@@ -70,8 +70,11 @@ class AudioTagger:
         self.audio.save()
 
 
-if __name__ == "__main__":
-    episode_type, episode_number = determine_episode_type_and_number(sys.argv[1])
-
+def process(episode_type, episode_number):
     tagger = AudioTagger(episode_type, episode_number)
     tagger.add_tags()
+
+
+if __name__ == "__main__":
+    episode_type, episode_number = determine_episode_type_and_number(sys.argv[1])
+    process(episode_type, episode_number)

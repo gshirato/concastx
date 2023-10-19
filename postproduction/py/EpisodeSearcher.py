@@ -35,7 +35,7 @@ class EpisodeSearcher:
         predefined_value_to_remove = "Gota"
         print()
         for file_path in files:
-            episode_data = IOManager.read_json(file_path)
+            episode_data = IOManager.read(file_path)
             # remove 'Gota' from episode_data['Starr']
             if predefined_value_to_remove in attrs["starrs"]:
                 attrs["starrs"].remove(predefined_value_to_remove)
